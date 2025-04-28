@@ -1,0 +1,5602 @@
+[
+    {
+        "de":"Ich bin froh, dass ich heute endlich wieder zu Hause bin.",
+        "fr":"Je suis content d'être enfin à la maison aujourd'hui."
+    },
+    {
+        "de":"Er hat mir eine liebevolle Geste gezeigt, die mich beeindrückte.",
+        "fr":"Il m'a fait une gentillesse qui m'a impressionné."
+    },
+    {
+        "de":"Sie arbeitet hart, um ihre Karriere voranzubringen.",
+        "fr":"Elle travaille dur pour avancer dans sa carrière."
+    },
+    {
+        "de":"Die Kinder lachten laut, als der Clown plötzlich erschien.",
+        "fr":"Les enfants ont ri fort quand le clown est apparu soudainement."
+    },
+    {
+        "de":"Nach dem Film sind wir zum Café gegangen, um zu plaudern.",
+        "fr":"Après le film, nous sommes allés au café pour bavarder."
+    },
+    {
+        "de":"Ich muss mich heute auf meine Präsentation vorbereiten.",
+        "fr":"Je dois me préparer pour ma présentation aujourd'hui."
+    },
+    {
+        "de":"Die Wettervorhersage sagt, es wird morgen regnen.",
+        "fr":"La météo prévoit de la pluie demain."
+    },
+    {
+        "de":"Er hat mich heute zum Kaffee eingeladen.",
+        "fr":"Il m'a invité au café aujourd'hui."
+    },
+    {
+        "de":"Sie liebt es, in der Küche herumzulaufen und zu kochen.",
+        "fr":"Elle aime se promener en cuisine et cuisiner."
+    },
+    {
+        "de":"Die Katze saß vorn auf dem Schrank, als wäre sie der Herrscher.",
+        "fr":"Le chat était assis sur le rebord du placard, comme s'il était le maître."
+    },
+    {
+        "de":"Meine Eltern sind auf ein Wochenendeurlaub.",
+        "fr":"Mes parents sont partis en week-end."
+    },
+    {
+        "de":"Wir haben gestern Abend einen Film im Kino gesehen.",
+        "fr":"Nous avons vu un film au cinéma hier soir."
+    },
+    {
+        "de":"Sie hat einen neuen Job angenommen, der sie begeistert.",
+        "fr":"Elle a accepté un nouveau poste qui l'enthousiasme."
+    },
+    {
+        "de":"Er hat mir ein Buch von seinem Lieblingsschriftsteller geschenkt.",
+        "fr":"Il m'a offert un livre de son auteur préféré."
+    },
+    {
+        "de":"Es ist wichtig, dass wir den Termin einhalten.",
+        "fr":"Il est important que nous respectons le rendez-vous."
+    },
+    {
+        "de":"Sie hat sich heute für Yoga entschieden.",
+        "fr":"Elle s'est inscrite au yoga aujourd'hui."
+    },
+    {
+        "de":"Die Reise dauert etwa zwei Stunden.",
+        "fr":"Le voyage dure environ deux heures."
+    },
+    {
+        "de":"Er will ein neues Auto kaufen, aber hat noch nicht genug Geld gespart.",
+        "fr":"Il veut acheter une nouvelle voiture, mais n'a pas encore économisé assez d'argent."
+    },
+    {
+        "de":"Sie hat mich zum Geburtstag überrascht mit einem schönen Buch.",
+        "fr":"Elle m'a surpris(e) à mon anniversaire avec un beau livre."
+    },
+    {
+        "de":"Die Blumen auf dem Fensterbrett sind schon wieder blühend.",
+        "fr":"Les fleurs sur le balcon sont encore en fleur."
+    },
+    {
+        "de":"Er hat mich heute über seine neuen Pläne informiert.",
+        "fr":"Il m'a informé aujourd'hui de ses nouveaux plans."
+    },
+    {
+        "de":"Wir haben uns heute um die Gartenarbeit bemüht.",
+        "fr":"Nous avons fait de la jardinerie aujourd'hui."
+    },
+    {
+        "de":"Sie spielt gerne am Wochenende mit ihren Freunden Fußball.",
+        "fr":"Elle aime jouer au football avec ses amis le week-end."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Reisekosten sind höher geworden als erwartet.",
+        "fr":"Les coûts du voyage ont été plus élevés que prévu."
+    },
+    {
+        "de":"Sie hat eine neue Wohnung gefunden, die sie sehr mag.",
+        "fr":"Elle a trouvé une nouvelle location qu'elle aime beaucoup."
+    },
+    {
+        "de":"Er hat heute einen schweren Tag gehabt.",
+        "fr":"Il a eu une journée difficile aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben einen Grillabend geplant.",
+        "fr":"Les voisins ont organisé un barbecue."
+    },
+    {
+        "de":"Sie hat eine neue Haustierart adoptiert, eine Iguana.",
+        "fr":"Elle a adopté une nouvelle espèce d'animal de compagnie, une iguane."
+    },
+    {
+        "de":"Er ist gerade auf einer wichtigen Reise.",
+        "fr":"Il est en train de faire une importante course."
+    },
+    {
+        "de":"Die Suppe schmeckt selbstgemacht.",
+        "fr":"La soupe a un goût maison."
+    },
+    {
+        "de":"Sie hat heute ein neues Kleid gekauft.",
+        "fr":"Elle a acheté un nouveau vêtement aujourd'hui."
+    },
+    {
+        "de":"Er hat mich für einen kleinen Fehler bestraft.",
+        "fr":"Il m'a puni pour une petite faute."
+    },
+    {
+        "de":"Die Bibliothek ist heute geschlossen.",
+        "fr":"La bibliothèque est fermée aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute eine wichtige Präsentation vorbereitet.",
+        "fr":"Elle a préparé une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Er hat sich heute auf seine Hausaufgaben konzentriert.",
+        "fr":"Il s'est concentré sur ses devoirs aujourd'hui."
+    },
+    {
+        "de":"Die Schule beginnt bald.",
+        "fr":"L'école commence bientôt."
+    },
+    {
+        "de":"Sie hat heute eine wichtige Entscheidung getroffen.",
+        "fr":"Elle a pris une décision importante aujourd'hui."
+    },
+    {
+        "de":"Er hat mich heute um Hilfe gebeten.",
+        "fr":"Il m'a demandé de l'aide aujourd'hui."
+    },
+    {
+        "de":"Die Musik auf dem Fest war wunderschön.",
+        "fr":"La musique à la fête était magnifique."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbe gewählt.",
+        "fr":"Elle a choisi une nouvelle couleur de cheveux aujourd'hui."
+    },
+    {
+        "de":"Er hat heute einen neuen Job angenommen.",
+        "fr":"Il a accepté un nouveau poste aujourd'hui."
+    },
+    {
+        "de":"Die Party war sehr aufregend.",
+        "fr":"La fête a été très excitante."
+    },
+    {
+        "de":"Sie hat heute einen neuen Frisur gemacht.",
+        "fr":"Elle s'est fait une nouvelle coiffure aujourd'hui."
+    },
+    {
+        "de":"Er ist heute zum ersten Mal auf dem Bergrücken gewesen.",
+        "fr":"Il est allé pour la première fois en haut de la colline aujourd'hui."
+    },
+    {
+        "de":"Die Arbeit nimmt viel Zeit in Anspruch.",
+        "fr":"Le travail prend beaucoup de temps."
+    },
+    {
+        "de":"Sie hat heute ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture aujourd'hui."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin gehabt.",
+        "fr":"Il avait une importante réunion aujourd'hui."
+    },
+    {
+        "de":"Die Mutter kümmert sich um die Kinder.",
+        "fr":"La mère s'occupe des enfants."
+    },
+    {
+        "de":"Sie hat heute ein neues Auto verkauft.",
+        "fr":"Elle a vendu une nouvelle voiture aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Präsentation gehalten.",
+        "fr":"Il a fait une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Die Wettervorhersage ist heute besser geworden.",
+        "fr":"La météo s'est améliorée aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin mit dem Chef gehabt.",
+        "fr":"Il a eu une réunion importante avec le patron aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn sind heute gekommen, um uns zu besuchen.",
+        "fr":"Les voisins sont venus nous rendre visite aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin mit dem Chef gehabt.",
+        "fr":"Il a eu une réunion importante avec le patron aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn sind heute gekommen, um uns zu besuchen.",
+        "fr":"Les voisins sont venus nous rendre visite aujourd'hui."
+    },
+    {
+        "de":"Es gibt viele schöne Seen in der Nähe.",
+        "fr":"Il y a beaucoup de belles lacs dans les environs."
+    },
+    {
+        "de":"Wir müssen heute unser Auto reparieren lassen.",
+        "fr":"Nous devons faire réparer notre voiture aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin mit dem Chef gehabt.",
+        "fr":"Il a eu une réunion importante avec le patron aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn sind heute gekommen, um uns zu besuchen.",
+        "fr":"Les voisins sont venus nous rendre visite aujourd'hui."
+    },
+    {
+        "de":"Wir gehen morgen zum Frühstück ins Restaurant.",
+        "fr":"Nous irons déjeuner au restaurant demain."
+    },
+    {
+        "de":"Sie hat einen neuen Job angenommen, der ihr sehr gut steht.",
+        "fr":"Elle a accepté un nouveau poste qui lui convient beaucoup."
+    },
+    {
+        "de":"Er hat heute einen neuen Computer gekauft.",
+        "fr":"Il a acheté un nouvel ordinateur aujourd'hui."
+    },
+    {
+        "de":"Die Schule beginnt in zwei Wochen.",
+        "fr":"L'école commence dans deux semaines."
+    },
+    {
+        "de":"Sie hat heute eine wichtige Präsentation vorbereitet.",
+        "fr":"Elle a préparé une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Er hat sich heute auf seine Hausaufgaben konzentriert.",
+        "fr":"Il s'est concentré sur ses devoirs aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute ein Grillfest geplant.",
+        "fr":"Les voisins ont organisé un barbecue aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute eine neue Haustierart adoptiert, einen Kaninchen.",
+        "fr":"Elle a adopté une nouvelle espèce d'animal de compagnie, un lapin."
+    },
+    {
+        "de":"Er ist heute auf einer wichtigen Reise.",
+        "fr":"Il est en train de faire une importante course aujourd'hui."
+    },
+    {
+        "de":"Die Suppe schmeckt selbstgemacht.",
+        "fr":"La soupe a un goût maison."
+    },
+    {
+        "de":"Sie hat heute ein neues Kleid gekauft.",
+        "fr":"Elle a acheté un nouveau vêtement aujourd'hui."
+    },
+    {
+        "de":"Er hat mich für einen kleinen Fehler bestraft.",
+        "fr":"Il m'a puni pour une petite faute."
+    },
+    {
+        "de":"Die Reisekosten sind höher geworden als erwartet.",
+        "fr":"Les coûts du voyage ont été plus élevés que prévu."
+    },
+    {
+        "de":"Sie hat eine neue Wohnung gefunden, die sie sehr mag.",
+        "fr":"Elle a trouvé une nouvelle location qu'elle aime beaucoup."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Blumen auf dem Fensterbrett sind schon wieder blühend.",
+        "fr":"Les fleurs sur le balcon sont encore en fleur."
+    },
+    {
+        "de":"Ich muss mich heute auf meine Präsentation vorbereiten.",
+        "fr":"Je dois me préparer pour ma présentation aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute um die Gartenarbeit bemüht.",
+        "fr":"Nous avons fait de la jardinerie aujourd'hui."
+    },
+    {
+        "de":"Sie spielt gerne am Wochenende mit ihren Freunden Fußball.",
+        "fr":"Elle aime jouer au football avec ses amis le week-end."
+    },
+    {
+        "de":"Der Sonnenuntergang war heute besonders schön.",
+        "fr":"Le coucher de soleil était particulièrement beau aujourd'hui."
+    },
+    {
+        "de":"Er hat mich heute zum Kaffee eingeladen.",
+        "fr":"Il m'a invité au café aujourd'hui."
+    },
+    {
+        "de":"Sie hat sich heute für Yoga entschieden.",
+        "fr":"Elle s'est inscrite au yoga aujourd'hui."
+    },
+    {
+        "de":"Die Reise dauert etwa zwei Stunden.",
+        "fr":"Le voyage dure environ deux heures."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Nachbarn haben heute einen Grillabend geplant.",
+        "fr":"Les voisins ont organisé un barbecue aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er ist heute auf einer wichtigen Reise.",
+        "fr":"Il est en train de faire une importante course aujourd'hui."
+    },
+    {
+        "de":"Die Suppe schmeckt selbstgemacht.",
+        "fr":"La soupe a un goût maison."
+    },
+    {
+        "de":"Sie hat heute ein neues Kleid gekauft.",
+        "fr":"Elle a acheté un nouveau vêtement aujourd'hui."
+    },
+    {
+        "de":"Er hat mich für einen kleinen Fehler bestraft.",
+        "fr":"Il m'a puni pour une petite faute."
+    },
+    {
+        "de":"Die Reisekosten sind höher geworden als erwartet.",
+        "fr":"Les coûts du voyage ont été plus élevés que prévu."
+    },
+    {
+        "de":"Sie hat eine neue Wohnung gefunden, die sie sehr mag.",
+        "fr":"Elle a trouvé une nouvelle location qu'elle aime beaucoup."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Blumen auf dem Fensterbrett sind schon wieder blühend.",
+        "fr":"Les fleurs sur le balcon sont encore en fleur."
+    },
+    {
+        "de":"Es regnet heute stark.",
+        "fr":"Il pleut fort aujourd'hui."
+    },
+    {
+        "de":"Sie ist heute sehr müde, nach dem langen Tag.",
+        "fr":"Elle est très fatiguée après sa longue journée."
+    },
+    {
+        "de":"Er hat heute einen neuen Computer gekauft.",
+        "fr":"Il a acheté un nouvel ordinateur aujourd'hui."
+    },
+    {
+        "de":"Die Schule beginnt in zwei Wochen.",
+        "fr":"L'école commence dans deux semaines."
+    },
+    {
+        "de":"Sie hat heute eine wichtige Präsentation vorbereitet.",
+        "fr":"Elle a préparé une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Er hat sich heute auf seine Hausaufgaben konzentriert.",
+        "fr":"Il s'est concentré sur ses devoirs aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute ein Grillfest geplant.",
+        "fr":"Les voisins ont organisé un barbecue aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er ist heute auf einer wichtigen Reise.",
+        "fr":"Il est en train de faire une importante course aujourd'hui."
+    },
+    {
+        "de":"Die Suppe schmeckt selbstgemacht.",
+        "fr":"La soupe a un goût maison."
+    },
+    {
+        "de":"Sie hat heute ein neues Kleid gekauft.",
+        "fr":"Elle a acheté un nouveau vêtement aujourd'hui."
+    },
+    {
+        "de":"Er hat mich für einen kleinen Fehler bestraft.",
+        "fr":"Il m'a puni pour une petite faute."
+    },
+    {
+        "de":"Die Reisekosten sind höher geworden als erwartet.",
+        "fr":"Les coûts du voyage ont été plus élevés que prévu."
+    },
+    {
+        "de":"Sie hat eine neue Wohnung gefunden, die sie sehr mag.",
+        "fr":"Elle a trouvé une nouvelle location qu'elle aime beaucoup."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Blumen auf dem Fensterbrett sind schon wieder blühend.",
+        "fr":"Les fleurs sur le balcon sont encore en fleur."
+    },
+    {
+        "de":"Sie hat heute ein schönes Buch angeschaut.",
+        "fr":"Elle a feuilleté un beau livre aujourd'hui."
+    },
+    {
+        "de":"Er hat heute einen neuen Computer gekauft.",
+        "fr":"Il a acheté un nouvel ordinateur aujourd'hui."
+    },
+    {
+        "de":"Die Schule beginnt in zwei Wochen.",
+        "fr":"L'école commence dans deux semaines."
+    },
+    {
+        "de":"Sie hat heute eine wichtige Präsentation vorbereitet.",
+        "fr":"Elle a préparé une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Er hat sich heute auf seine Hausaufgaben konzentriert.",
+        "fr":"Il s'est concentré sur ses devoirs aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute ein Grillfest geplant.",
+        "fr":"Les voisins ont organisé un barbecue aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er ist heute auf einer wichtigen Reise.",
+        "fr":"Il est en train de faire une importante course aujourd'hui."
+    },
+    {
+        "de":"Die Suppe schmeckt selbstgemacht.",
+        "fr":"La soupe a un goût maison."
+    },
+    {
+        "de":"Sie hat heute ein neues Kleid gekauft.",
+        "fr":"Elle a acheté un nouveau vêtement aujourd'hui."
+    },
+    {
+        "de":"Er hat mich für einen kleinen Fehler bestraft.",
+        "fr":"Il m'a puni pour une petite faute."
+    },
+    {
+        "de":"Die Reisekosten sind höher geworden als erwartet.",
+        "fr":"Les coûts du voyage ont été plus élevés que prévu."
+    },
+    {
+        "de":"Sie hat eine neue Wohnung gefunden, die sie sehr mag.",
+        "fr":"Elle a trouvé une nouvelle location qu'elle aime beaucoup."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Blumen auf dem Fensterbrett sind schon wieder blühend.",
+        "fr":"Les fleurs sur le balcon sont encore en fleur."
+    },
+    {
+        "de":"Ich muss mich heute auf meine Präsentation vorbereiten.",
+        "fr":"Je dois me préparer pour ma présentation aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute um die Gartenarbeit bemüht.",
+        "fr":"Nous avons fait de la jardinerie aujourd'hui."
+    },
+    {
+        "de":"Sie spielt gerne am Wochenende mit ihren Freunden Fußball.",
+        "fr":"Elle aime jouer au football avec ses amis le week-end."
+    },
+    {
+        "de":"Der Sonnenuntergang war heute besonders schön.",
+        "fr":"Le coucher de soleil était particulièrement beau aujourd'hui."
+    },
+    {
+        "de":"Er hat mich heute zum Kaffee eingeladen.",
+        "fr":"Il m'a invité au café aujourd'hui."
+    },
+    {
+        "de":"Sie hat sich heute für Yoga entschieden.",
+        "fr":"Elle s'est inscrite au yoga aujourd'hui."
+    },
+    {
+        "de":"Die Reise dauert etwa zwei Stunden.",
+        "fr":"Le voyage dure environ deux heures."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Nachbarn haben heute ein Grillfest geplant.",
+        "fr":"Les voisins ont organisé un barbecue aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er ist heute auf einer wichtigen Reise.",
+        "fr":"Il est en train de faire une importante course aujourd'hui."
+    },
+    {
+        "de":"Die Suppe schmeckt selbstgemacht.",
+        "fr":"La soupe a un goût maison."
+    },
+    {
+        "de":"Sie hat heute ein neues Kleid gekauft.",
+        "fr":"Elle a acheté un nouveau vêtement aujourd'hui."
+    },
+    {
+        "de":"Er hat mich für einen kleinen Fehler bestraft.",
+        "fr":"Il m'a puni pour une petite faute."
+    },
+    {
+        "de":"Die Reisekosten sind höher geworden als erwartet.",
+        "fr":"Les coûts du voyage ont été plus élevés que prévu."
+    },
+    {
+        "de":"Sie hat eine neue Wohnung gefunden, die sie sehr mag.",
+        "fr":"Elle a trouvé une nouvelle location qu'elle aime beaucoup."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Blumen auf dem Fensterbrett sind schon wieder blühend.",
+        "fr":"Les fleurs sur le balcon sont encore en fleur."
+    },
+    {
+        "de":"Ich muss mich heute auf meine Präsentation vorbereiten.",
+        "fr":"Je dois me préparer pour ma présentation aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute um die Gartenarbeit bemüht.",
+        "fr":"Nous avons fait de la jardinerie aujourd'hui."
+    },
+    {
+        "de":"Sie spielt gerne am Wochenende mit ihren Freunden Fußball.",
+        "fr":"Elle aime jouer au football avec ses amis le week-end."
+    },
+    {
+        "de":"Der Sonnenuntergang war heute besonders schön.",
+        "fr":"Le coucher de soleil était particulièrement beau aujourd'hui."
+    },
+    {
+        "de":"Er hat mich heute zum Kaffee eingeladen.",
+        "fr":"Il m'a invité au café aujourd'hui."
+    },
+    {
+        "de":"Sie hat sich heute für Yoga entschieden.",
+        "fr":"Elle s'est inscrite au yoga aujourd'hui."
+    },
+    {
+        "de":"Die Reise dauert etwa zwei Stunden.",
+        "fr":"Le voyage dure environ deux heures."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Nachbarn haben heute ein Grillfest geplant.",
+        "fr":"Les voisins ont organisé un barbecue aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er ist heute auf einer wichtigen Reise.",
+        "fr":"Il est en train de faire une importante course aujourd'hui."
+    },
+    {
+        "de":"Die Suppe schmeckt selbstgemacht.",
+        "fr":"La soupe a un goût maison."
+    },
+    {
+        "de":"Sie hat heute ein neues Kleid gekauft.",
+        "fr":"Elle a acheté un nouveau vêtement aujourd'hui."
+    },
+    {
+        "de":"Er hat mich für einen kleinen Fehler bestraft.",
+        "fr":"Il m'a puni pour une petite faute."
+    },
+    {
+        "de":"Die Reisekosten sind höher geworden als erwartet.",
+        "fr":"Les coûts du voyage ont été plus élevés que prévu."
+    },
+    {
+        "de":"Sie hat eine neue Wohnung gefunden, die sie sehr mag.",
+        "fr":"Elle a trouvé une nouvelle location qu'elle aime beaucoup."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Blumen auf dem Fensterbrett sind schon wieder blühend.",
+        "fr":"Les fleurs sur le balcon sont encore en fleur."
+    },
+    {
+        "de":"Er hat heute keine Zeit für mich gehabt, war aber freundlich.",
+        "fr":"Il n'a pas eu le temps de moi aujourd'hui, mais il était gentil."
+    },
+    {
+        "de":"Die Nachbarn haben heute ein Grillfest geplant.",
+        "fr":"Les voisins ont organisé un barbecue aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarbenexperiment gemacht.",
+        "fr":"Elle a fait une nouvelle expérience de teinture aujourd'hui."
+    },
+    {
+        "de":"Er ist heute auf einer wichtigen Reise.",
+        "fr":"Il est en train de"
+    },
+    {
+        "de":"Ich habe gestern in einem kleinen Café in Paris gegessen.",
+        "fr":"J'ai mangé hier soir dans un petit café à Paris."
+    },
+    {
+        "de":"Die Sonne scheint heute sehr hell.",
+        "fr":"Le soleil brille très fort aujourd'hui."
+    },
+    {
+        "de":"Ich liebe es, am Strand zu spazieren.",
+        "fr":"J'aime se promener sur la plage."
+    },
+    {
+        "de":"Wie geht es Ihnen heute?",
+        "fr":"Comment allez-vous aujourd'hui?"
+    },
+    {
+        "de":"Wir feiern bald unser fünfzehntes Jubiläum.",
+        "fr":"Nous célébrons bientôt notre quinzième année d'anniversaire."
+    },
+    {
+        "de":"Der Film war wirklich unterhaltsam.",
+        "fr":"Le film était vraiment amusant."
+    },
+    {
+        "de":"Ich mag Kaffee, aber ich trinke lieber Tee.",
+        "fr":"J'aime le café, mais je bois plutôt du thé."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er ist heute spät zu Hause angekommen.",
+        "fr":"Il est rentré très tard ce soir."
+    },
+    {
+        "de":"Wir haben über die Reise in Italien gesprochen.",
+        "fr":"Nous avons parlé du voyage en Italie."
+    },
+    {
+        "de":"Sie arbeitet als Lehrerin.",
+        "fr":"Elle travaille enseignante."
+    },
+    {
+        "de":"Der Tag war sehr heiß und sonnig.",
+        "fr":"La journée était très chaude et ensoleillée."
+    },
+    {
+        "de":"Wie lange bist du schon hier?",
+        "fr":"Depuis quand êtes-vous ici?"
+    },
+    {
+        "de":"Er hat mich nach einer Stunde verlassen.",
+        "fr":"Il m'a quitté une heure après."
+    },
+    {
+        "de":"Die Kinder spielen im Park.",
+        "fr":"Les enfants jouent dans le parc."
+    },
+    {
+        "de":"Ich habe ein Buch über Geschichte angefangen.",
+        "fr":"J'ai commencé un livre d'histoire."
+    },
+    {
+        "de":"Es gibt viele Museen in Paris.",
+        "fr":"Il y a de nombreux musées à Paris."
+    },
+    {
+        "de":"Sie hat einen neuen Job bekommen.",
+        "fr":"Elle a eu un nouveau poste."
+    },
+    {
+        "de":"Er hat mich bei dem Problem geholfen.",
+        "fr":"Il m'a aidé avec ce problème."
+    },
+    {
+        "de":"Ich freue mich auf das Wiedersehen.",
+        "fr":"Je me réjouis de te revoir."
+    },
+    {
+        "de":"Wie spät ist es?",
+        "fr":"Quelle heure est-il?"
+    },
+    {
+        "de":"Er hat sich um die ganze Nacht aufgeregt.",
+        "fr":"Il s'est excité toute la nuit."
+    },
+    {
+        "de":"Wir treffen uns am Donnerstag um sechs.",
+        "fr":"Nous nous rencontrerons jeudi à six heures."
+    },
+    {
+        "de":"Die Schule fängt um neun an.",
+        "fr":"L'école commence à neuf heures."
+    },
+    {
+        "de":"Sie hat einen wunderschönen Garten.",
+        "fr":"Elle a un jardin magnifique."
+    },
+    {
+        "de":"Er hat sein Auto gestern repariert.",
+        "fr":"Il a réparé sa voiture hier soir."
+    },
+    {
+        "de":"Ich habe meine Noten bekommen.",
+        "fr":"J'ai eu mes notes."
+    },
+    {
+        "de":"Es gibt viele Restaurants in der Nähe.",
+        "fr":"Il y a de nombreux restaurants dans les environs."
+    },
+    {
+        "de":"Sie hat einen neuen Satz von Hosen gekauft.",
+        "fr":"Elle a acheté un nouveau pantalon."
+    },
+    {
+        "de":"Er hat einen Roman geschrieben.",
+        "fr":"Il a écrit un roman."
+    },
+    {
+        "de":"Wie geht es dir heute?",
+        "fr":"Comment allez-vous aujourd'hui?"
+    },
+    {
+        "de":"Er ist sehr intelligent.",
+        "fr":"Il est très intelligent."
+    },
+    {
+        "de":"Sie hat eine neue Wohnung gefunden.",
+        "fr":"Elle a trouvé une nouvelle maison."
+    },
+    {
+        "de":"Ich habe ein neues Auto gekauft.",
+        "fr":"J'ai acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat mir eine E-Mail geschrieben.",
+        "fr":"Il m'a écrit un e-mail."
+    },
+    {
+        "de":"Die Wettervorhersage sagt, es wird regnen.",
+        "fr":"La météo prévoit de la pluie."
+    },
+    {
+        "de":"Ich habe einen Termin morgen.",
+        "fr":"J'ai un rendez-vous demain."
+    },
+    {
+        "de":"Wir gehen morgen ins Kino.",
+        "fr":"Nous allons au cinéma demain."
+    },
+    {
+        "de":"Sie hat heute einen Tag Urlaub.",
+        "fr":"Elle prend un jour de congé aujourd'hui."
+    },
+    {
+        "de":"Er hat mich gefragt, ob ich mitgehen will.",
+        "fr":"Il m'a demandé si je voulais venir avec lui."
+    },
+    {
+        "de":"Ich esse gerne Pasta.",
+        "fr":"J'aime bien la pâte."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Sie hat eine blume in der Hand.",
+        "fr":"Elle a une fleur dans la main."
+    },
+    {
+        "de":"Er ist sehr müde.",
+        "fr":"Il est très fatigué."
+    },
+    {
+        "de":"Wir gehen morgen ins Museum.",
+        "fr":"Nous allons au musée demain."
+    },
+    {
+        "de":"Sie hat mich gefragt, wie es mir geht.",
+        "fr":"Elle m'a demandé comment j'allais."
+    },
+    {
+        "de":"Er ist ein guter Koch.",
+        "fr":"Il est un bon cuisinier."
+    },
+    {
+        "de":"Ich habe keine Zeit.",
+        "fr":"Je n'ai pas de temps."
+    },
+    {
+        "de":"Sie hat einen neuen Job gefunden.",
+        "fr":"Elle a trouvé un nouveau travail."
+    },
+    {
+        "de":"Er hat mich gestern angerufen.",
+        "fr":"Il m'a appelé hier soir."
+    },
+    {
+        "de":"Es gibt viele Studenten im Auditorium.",
+        "fr":"Il y a beaucoup d'étudiants en auditorium."
+    },
+    {
+        "de":"Ich habe einen Termin mit meinem Doktor.",
+        "fr":"J'ai un rendez-vous avec mon médecin."
+    },
+    {
+        "de":"Er ist eine ausgezeichnete Leitung.",
+        "fr":"Il est un excellent responsable."
+    },
+    {
+        "de":"Wir treffen uns morgen um zehn.",
+        "fr":"Nous nous rencontrerons demain à dix heures."
+    },
+    {
+        "de":"Sie hat einen wunderschönen Anblick.",
+        "fr":"Elle a une vue magnifique."
+    },
+    {
+        "de":"Er hat das Buch gestern gelesen.",
+        "fr":"Il a lu le livre hier soir."
+    },
+    {
+        "de":"Ich habe eine neue Stelle gefunden.",
+        "fr":"J'ai trouvé un nouvel emploi."
+    },
+    {
+        "de":"Der Frühling ist angebrochen.",
+        "fr":"Le printemps est arrivé."
+    },
+    {
+        "de":"Ich habe keine Ahnung, was passiert ist.",
+        "fr":"Je n'ai aucune idée de ce qui s'est passé."
+    },
+    {
+        "de":"Er hat mich heute angerufen.",
+        "fr":"Il m'a appelé aujourd'hui."
+    },
+    {
+        "de":"Ich esse gerne Salat.",
+        "fr":"J'aime bien le salade."
+    },
+    {
+        "de":"Es ist ein schöner Tag.",
+        "fr":"C'est une belle journée."
+    },
+    {
+        "de":"Sie hat heute eine Präsentation gehalten.",
+        "fr":"Elle a donné une présentation aujourd'hui."
+    },
+    {
+        "de":"Er hat mich gefragt, ob ich mithilfe will.",
+        "fr":"Il m'a demandé si je voulais l'aider."
+    },
+    {
+        "de":"Ich habe eine neue Wohnung gefunden.",
+        "fr":"J'ai trouvé une nouvelle maison."
+    },
+    {
+        "de":"Er hat heute einen Termin.",
+        "fr":"Il a un rendez-vous aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute eine Präsentation gehalten.",
+        "fr":"Elle a donné une présentation aujourd'hui."
+    },
+    {
+        "de":"Er hat mich gefragt, ob ich mithilfe will.",
+        "fr":"Il m'a demandé si je voulais l'aider."
+    },
+    {
+        "de":"Ich habe heute eine Präsentation gehalten.",
+        "fr":"J'ai donné une présentation aujourd'hui."
+    },
+    {
+        "de":"Er hat mich heute angerufen.",
+        "fr":"Il m'a appelé aujourd'hui."
+    },
+    {
+        "de":"Sie hat einen neuen Job gefunden.",
+        "fr":"Elle a trouvé un nouveau travail."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Ich habe keine Ahnung, was passiert ist.",
+        "fr":"Je n'ai aucune idée de ce qui s'est passé."
+    },
+    {
+        "de":"Der Frühling ist angebrochen.",
+        "fr":"Le printemps est arrivé."
+    },
+    {
+        "de":"Ich esse gerne Pasta.",
+        "fr":"J'aime bien la pâte."
+    },
+    {
+        "de":"Es ist ein schöner Tag.",
+        "fr":"C'est une belle journée."
+    },
+    {
+        "de":"Er hat mich heute angerufen.",
+        "fr":"Il m'a appelé aujourd'hui."
+    },
+    {
+        "de":"Ich habe eine neue Wohnung gefunden.",
+        "fr":"J'ai trouvé une nouvelle maison."
+    },
+    {
+        "de":"Er hat heute einen Termin.",
+        "fr":"Il a un rendez-vous aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute eine Präsentation gehalten.",
+        "fr":"Elle a donné une présentation aujourd'hui."
+    },
+    {
+        "de":"Er ist sehr müde.",
+        "fr":"Il est très fatigué."
+    },
+    {
+        "de":"Wir gehen morgen ins Museum.",
+        "fr":"Nous allons au musée demain."
+    },
+    {
+        "de":"Sie hat einen neuen Job gefunden.",
+        "fr":"Elle a trouvé un nouveau travail."
+    },
+    {
+        "de":"Er hat mich gefragt, ob ich mitgehen will.",
+        "fr":"Il m'a demandé si je voulais venir avec lui."
+    },
+    {
+        "de":"Es gibt viele Studenten im Auditorium.",
+        "fr":"Il y a beaucoup d'étudiants en auditorium."
+    },
+    {
+        "de":"Ich habe einen Termin mit meinem Doktor.",
+        "fr":"J'ai un rendez-vous avec mon médecin."
+    },
+    {
+        "de":"Er ist eine ausgezeichnte Leitung.",
+        "fr":"Il est un excellent responsable."
+    },
+    {
+        "de":"Wir treffen uns morgen um zehn.",
+        "fr":"Nous nous rencontrerons demain à dix heures."
+    },
+    {
+        "de":"Sie hat eine schöne Anblick.",
+        "fr":"Elle a une vue magnifique."
+    },
+    {
+        "de":"Er hat das Buch gestern gelesen.",
+        "fr":"Il a lu le livre hier soir."
+    },
+    {
+        "de":"Ich habe keine Ahnung, was passiert ist.",
+        "fr":"Je n'ai aucune idée de ce qui s'est passé."
+    },
+    {
+        "de":"Der Frühling ist angebrochen.",
+        "fr":"Le printemps est arrivé."
+    },
+    {
+        "de":"Ich esse gerne Pasta.",
+        "fr":"J'aime bien la pâte."
+    },
+    {
+        "de":"Es ist ein schöner Tag.",
+        "fr":"C'est une belle journée."
+    },
+    {
+        "de":"Er hat mich heute angerufen.",
+        "fr":"Il m'a appelé aujourd'hui."
+    },
+    {
+        "de":"Ich habe eine neue Wohnung gefunden.",
+        "fr":"J'ai trouvé une nouvelle maison."
+    },
+    {
+        "de":"Er hat heute einen Termin.",
+        "fr":"Il a un rendez-vous aujourd'hui."
+    },
+    {
+        "de":"Sie hat heute eine Präsentation gehalten.",
+        "fr":"Elle a donné une présentation aujourd'hui."
+    },
+    {
+        "de":"Er hat mich gefragt, ob ich mithilfe will.",
+        "fr":"Il m'a demandé si je voulais l'aider."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Heute ist ein schöner Tag, um im Park spazierenzugehen.",
+        "fr":"C'est une belle journée pour se promener dans le parc."
+    },
+    {
+        "de":"Ich habe gestern ein interessantes Buch gelesen.",
+        "fr":"J'ai lu un livre intéressant hier."
+    },
+    {
+        "de":"Wir treffen uns morgen um elf Uhr.",
+        "fr":"Nous nous retrouverons demain à onze heures."
+    },
+    {
+        "de":"Sie braucht dringend einen neuen Computer.",
+        "fr":"Elle a vraiment besoin d'un nouvel ordinateur."
+    },
+    {
+        "de":"Das Wetter ist heute sehr heiß.",
+        "fr":"Le temps est très chaud aujourd'hui."
+    },
+    {
+        "de":"Er ist ein sehr berühmter Schauspieler.",
+        "fr":"Il est un acteur très célèbre."
+    },
+    {
+        "de":"Kannst du mir bitte helfen?",
+        "fr":"Pourrais-tu m'aider, s'il te plaît ?"
+    },
+    {
+        "de":"Ich liebe es, Kaffee zu trinken.",
+        "fr":"J'aime boire du café."
+    },
+    {
+        "de":"Die Katze ist gestern gestorben.",
+        "fr":"Le chat est mort hier."
+    },
+    {
+        "de":"Wir müssen uns um die Umwelt kümmern.",
+        "fr":"Nous devons prendre soin de l'environnement."
+    },
+    {
+        "de":"Es ist wichtig, dass du pünktlich kommst.",
+        "fr":"Il est important que tu arrives à l'heure."
+    },
+    {
+        "de":"Die Prüfung ist morgen.",
+        "fr":"L'examen est demain."
+    },
+    {
+        "de":"Ich mag Kino, aber ich hasse Musikvideos.",
+        "fr":"J'aime les films, mais je déteste les clips musicaux."
+    },
+    {
+        "de":"Sie hat einen wunderschönen Garten.",
+        "fr":"Elle a un jardin magnifique."
+    },
+    {
+        "de":"Er ist ein sehr guter Koch.",
+        "fr":"Il est un excellent cuisinier."
+    },
+    {
+        "de":"Wir feiern unser Jubiläum nächste Woche.",
+        "fr":"Nous célèbrons notre anniversaire la semaine prochaine."
+    },
+    {
+        "de":"Die Musik ist sehr laut.",
+        "fr":"La musique est très forte."
+    },
+    {
+        "de":"Ich habe Hunger.",
+        "fr":"J'ai faim."
+    },
+    {
+        "de":"Das Essen ist heute besonders lecker.",
+        "fr":"Le repas est particulièrement délicieux aujourd'hui."
+    },
+    {
+        "de":"Ich muss morgen früh aufstehen.",
+        "fr":"Je dois me lever tôt demain matin."
+    },
+    {
+        "de":"Die Dokumente sind noch nicht eingegangen.",
+        "fr":"Les documents ne sont pas encore arrivés."
+    },
+    {
+        "de":"Er spricht mehrere Sprachen.",
+        "fr":"Il parle plusieurs langues."
+    },
+    {
+        "de":"Sie arbeitet in einem Museum.",
+        "fr":"Elle travaille dans un musée."
+    },
+    {
+        "de":"Das Konzert war unglaublich.",
+        "fr":"Le concert a été incroyable."
+    },
+    {
+        "de":"Ich habe keine Ahnung, wo ich hingehen soll.",
+        "fr":"Je ne sais pas où aller."
+    },
+    {
+        "de":"Er hat gestern in der Bibliothek gearbeitet.",
+        "fr":"Il a travaillé à la bibliothèque hier."
+    },
+    {
+        "de":"Der Tag ist kalt und nass.",
+        "fr":"Il fait froid et humide aujourd'hui."
+    },
+    {
+        "de":"Ich will nicht mehr darüber sprechen.",
+        "fr":"Je ne veux plus en parler."
+    },
+    {
+        "de":"Sie spielt in einer Orchestergruppe.",
+        "fr":"Elle joue dans un orchestre."
+    },
+    {
+        "de":"Ich habe keine Zeit, heute Abend zu kochen.",
+        "fr":"Je n'ai pas le temps de cuisiner ce soir."
+    },
+    {
+        "de":"Wir haben gestern Abend ins Kino gegangen.",
+        "fr":"Nous sommes allés au cinéma hier soir."
+    },
+    {
+        "de":"Er ist ein sehr netter Mann.",
+        "fr":"Il est un homme très gentil."
+    },
+    {
+        "de":"Die Kinder sind heute sehr aufgeregt.",
+        "fr":"Les enfants sont très excités aujourd'hui."
+    },
+    {
+        "de":"Es ist wichtig, dass wir uns treffen.",
+        "fr":"Il est important que nous nous rencontrions."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er lernt derzeit Französisch.",
+        "fr":"Il apprend actuellement le français."
+    },
+    {
+        "de":"Die Party beginnt um zwanzig Uhr.",
+        "fr":"La fête commence à vingt heures."
+    },
+    {
+        "de":"Sie ist eine hervorragende Lehrerin.",
+        "fr":"Elle est une excellente professeure."
+    },
+    {
+        "de":"Der Tag ist sehr sonnig.",
+        "fr":"Il fait très ensoleillé aujourd'hui."
+    },
+    {
+        "de":"Ich mag nicht, wenn du zu spät kommst.",
+        "fr":"Je n'aime pas quand tu arrives en retard."
+    },
+    {
+        "de":"Sie hat einen wunderschönen Garten.",
+        "fr":"Elle a un jardin magnifique."
+    },
+    {
+        "de":"Es ist wichtig, dass wir dringend handeln.",
+        "fr":"Il est crucial que nous agissions rapidement."
+    },
+    {
+        "de":"Er hat eine wunderbare Idee.",
+        "fr":"Il a une idée géniale."
+    },
+    {
+        "de":"Die Stunde ist zu Ende.",
+        "fr":"La classe est terminée."
+    },
+    {
+        "de":"Sie ist sehr intelligent.",
+        "fr":"Elle est très intelligente."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir sind morgen Besuch bei meinen Eltern.",
+        "fr":"Nous allons visiter mes parents demain."
+    },
+    {
+        "de":"Die Prüfung war sehr schwierig.",
+        "fr":"L'examen était très difficile."
+    },
+    {
+        "de":"Sie hat einen wunderschönen Anzug an.",
+        "fr":"Elle porte un tailleur magnifique."
+    },
+    {
+        "de":"Er hat einen wunderschönen Tag.",
+        "fr":"Il a passé une excellente journée."
+    },
+    {
+        "de":"Es ist wichtig, dass wir zusammenarbeiten.",
+        "fr":"Il est important que nous collaborions."
+    },
+    {
+        "de":"Die Konferenz findet nächste Woche statt.",
+        "fr":"La conférence aura lieu la semaine prochaine."
+    },
+    {
+        "de":"Ich muss morgen früh aufstehen.",
+        "fr":"Je dois me lever tôt demain matin."
+    },
+    {
+        "de":"Er hat einen neuen Job angenommen.",
+        "fr":"Il a accepté un nouveau poste."
+    },
+    {
+        "de":"Es regnet heute sehr stark.",
+        "fr":"Il pleut fort aujourd'hui."
+    },
+    {
+        "de":"Sie liebt es, im Park zu spazierenzugehen.",
+        "fr":"Elle aime se promener dans le parc."
+    },
+    {
+        "de":"Der Tag ist sehr kalt.",
+        "fr":"Il fait très froid aujourd'hui."
+    },
+    {
+        "de":"Er hat eine wichtige Präsentation zu geben.",
+        "fr":"Il doit faire une présentation importante."
+    },
+    {
+        "de":"Die Party beginnt um zwanzig Uhr.",
+        "fr":"La fête commence à vingt heures."
+    },
+    {
+        "de":"Er hat eine neue Wohnung gefunden.",
+        "fr":"Il a trouvé une nouvelle maison."
+    },
+    {
+        "de":"Die Prüfung war sehr schwierig.",
+        "fr":"L'examen était très difficile."
+    },
+    {
+        "de":"Sie hat einen wunderschönen Anzug an.",
+        "fr":"Elle porte un tailleur magnifique."
+    },
+    {
+        "de":"Er hat einen wunderschönen Tag.",
+        "fr":"Il a passé une excellente journée."
+    },
+    {
+        "de":"Es ist wichtig, dass wir zusammenarbeiten.",
+        "fr":"Il est important que nous collaborions."
+    },
+    {
+        "de":"Die Konferenz findet nächste Woche statt.",
+        "fr":"La conférence aura lieu la semaine prochaine."
+    },
+    {
+        "de":"Ich muss morgen früh aufstehen.",
+        "fr":"Je dois me lever tôt demain matin."
+    },
+    {
+        "de":"Er hat einen neuen Job angenommen.",
+        "fr":"Il a accepté un nouveau poste."
+    },
+    {
+        "de":"Es regnet heute sehr stark.",
+        "fr":"Il pleut fort aujourd'hui."
+    },
+    {
+        "de":"Sie liebt es, im Park zu spazierenzugehen.",
+        "fr":"Elle aime se promener dans le parc."
+    },
+    {
+        "de":"Der Tag ist sehr kalt.",
+        "fr":"Il fait très froid aujourd'hui."
+    },
+    {
+        "de":"Er hat eine wichtige Präsentation zu geben.",
+        "fr":"Il doit faire une présentation importante."
+    },
+    {
+        "de":"Die Wartezeit ist sehr lange.",
+        "fr":"Le temps d'attente est très long."
+    },
+    {
+        "de":"Ich muss noch viele Arbeiten erledigen.",
+        "fr":"Je dois encore beaucoup de travail."
+    },
+    {
+        "de":"Sie hat heute Geburtstag.",
+        "fr":"Elle a son anniversaire aujourd'hui."
+    },
+    {
+        "de":"Er ist sehr fleißig.",
+        "fr":"Il est très travailleur."
+    },
+    {
+        "de":"Sie ist eine hervorragende Lehrerin.",
+        "fr":"Elle est une excellente professeure."
+    },
+    {
+        "de":"Die Prüfung war besonders schwierig.",
+        "fr":"L'examen était particulièrement difficile."
+    },
+    {
+        "de":"Der Film war sehr unterhaltsam.",
+        "fr":"Le film était très amusant."
+    },
+    {
+        "de":"Sie hat einen schönen Garten.",
+        "fr":"Elle a un joli jardin."
+    },
+    {
+        "de":"Er hat die ganze Nacht gearbeitet.",
+        "fr":"Il a travaillé toute la nuit."
+    },
+    {
+        "de":"Wir feiern nächste Woche Geburtstag.",
+        "fr":"Nous célébrons l'anniversaire la semaine prochaine."
+    },
+    {
+        "de":"Es ist wichtig, dass wir aufpassen.",
+        "fr":"Il est important que nous soyons vigilants."
+    },
+    {
+        "de":"Die Reise dauert eine Stunde.",
+        "fr":"Le voyage dure une heure."
+    },
+    {
+        "de":"Sie liebt es, zu singen.",
+        "fr":"Elle aime chanter."
+    },
+    {
+        "de":"Er ist ein sehr guter Koch.",
+        "fr":"Il est un excellent cuisinier."
+    },
+    {
+        "de":"Wir müssen uns treffen, um unser Projekt zu besprechen.",
+        "fr":"Nous devons nous rencontrer pour discuter de notre projet."
+    },
+    {
+        "de":"Sie hat einen wunderschönen Anzug an.",
+        "fr":"Elle porte un tailleur magnifique."
+    },
+    {
+        "de":"Der Tag ist sehr sonnig.",
+        "fr":"Il fait très ensoleillé aujourd'hui."
+    },
+    {
+        "de":"Er hat eine wichtige Präsentation zu geben.",
+        "fr":"Il doit faire une présentation importante."
+    },
+    {
+        "de":"Die Konferenz findet nächste Woche statt.",
+        "fr":"La conférence aura lieu la semaine prochaine."
+    },
+    {
+        "de":"Ich muss morgen früh aufstehen.",
+        "fr":"Je dois me lever tôt demain matin."
+    },
+    {
+        "de":"Er hat einen neuen Job angenommen.",
+        "fr":"Il a accepté un nouveau poste."
+    },
+    {
+        "de":"Es regnet heute sehr stark.",
+        "fr":"Il pleut fort aujourd'hui."
+    },
+    {
+        "de":"Sie liebt es, im Park zu spazierenzugehen.",
+        "fr":"Elle aime se promener dans le parc."
+    },
+    {
+        "de":"Der Tag ist sehr kalt.",
+        "fr":"Il fait très froid aujourd'hui."
+    },
+    {
+        "de":"Er hat eine wichtige Präsentation zu geben.",
+        "fr":"Il doit faire une présentation importante."
+    },
+    {
+        "de":"Die Wartezeit ist sehr lange.",
+        "fr":"Le temps d'attente est très long."
+    },
+    {
+        "de":"Ich muss noch viele Arbeiten erledigen.",
+        "fr":"Je dois encore beaucoup de travail."
+    },
+    {
+        "de":"Sie hat heute Geburtstag.",
+        "fr":"Elle a son anniversaire aujourd'hui."
+    },
+    {
+        "de":"Er ist sehr fleißig.",
+        "fr":"Il est très travailleur."
+    },
+    {
+        "de":"Er rührte sich nicht von seinem Arbeitsplatz, als die Kollegen sich auf die Pause machten.",
+        "fr":"Il ne bougea pas de son poste de travail lorsque les collègues prenaient leur pause."
+    },
+    {
+        "de":"Ich hoffe, es regnet nicht, denn ich habe keine Regenschirme mitgebracht.",
+        "fr":"J'espère qu'il ne pleut pas, car je n'ai pas apporté de parapluie."
+    },
+    {
+        "de":"Das Essen war so schlecht, dass wir es nicht mehr als einen Bissen genossen.",
+        "fr":"Le repas était si mauvais que nous n'en avons mangé qu'une bouchée."
+    },
+    {
+        "de":"Sie ist durch dickes Nebel über die Berge gefahren.",
+        "fr":"Elle a traversé les montagnes sous une épaisse brume."
+    },
+    {
+        "de":"Ich habe das Buch bereits mehrmals gelesen, aber es gefällt mir immer noch.",
+        "fr":"J'ai déjà lu ce livre plusieurs fois, mais je l'aime toujours."
+    },
+    {
+        "de":"Die Kinder schrien und lachten, als der Eisbär ins Wasser sprang.",
+        "fr":"Les enfants criaient et riaient lorsque l'ours polaire sauta dans l'eau."
+    },
+    {
+        "de":"Er war so müde, dass er sofort ins Bett gestiegen ist.",
+        "fr":"Il était si fatigué qu'il est monté au lit immédiatement."
+    },
+    {
+        "de":"Das ist der Mann, der uns die Reise durch die Wüste geleitet hat.",
+        "fr":"C'est l'homme qui nous a guidés pendant notre traversée du désert."
+    },
+    {
+        "de":"Das Konzert war so laut, dass ich kaum ein Wort verstehen konnte.",
+        "fr":"Le concert était si fort que je ne pouvais à peine entendre un mot."
+    },
+    {
+        "de":"Ich habe den ganzen Tag gearbeitet, ohne eine Pause zu machen.",
+        "fr":"J'ai travaillé toute la journée sans faire une pause."
+    },
+    {
+        "de":"Die Mutter putzte die Küche, während der Vater die Geschirrspülmaschine bediente.",
+        "fr":"La mère nettoyait la cuisine pendant que le père utilisait la machine à laver vaisselle."
+    },
+    {
+        "de":"Er hat mich mit einer Weile aufgefordert, die ihn zum Flughafen fahren zu lassen.",
+        "fr":"Il m'a demandé de le conduire à l'aéroport avec un peu de retard."
+    },
+    {
+        "de":"Sie gab ihm ein paar von ihren alten Kleidern.",
+        "fr":"Elle lui a donné quelques-uns de ses anciens vêtements."
+    },
+    {
+        "de":"Das ist der Ort, an dem ich mein erstes Auto gesehen habe.",
+        "fr":"C'est l'endroit où j'ai vu ma première voiture."
+    },
+    {
+        "de":"Sie hat sich das Haar hochgestylt und sich mit viel Make-up aufgetan.",
+        "fr":"Elle a stylé son chevelure et s'est maquillée abondamment."
+    },
+    {
+        "de":"Er hat sich mit der Garderobe seiner Tochter beschäftigt, während sie sich um sein Auto kümmerte.",
+        "fr":"Il s'occupait de la garde-robe de sa fille pendant qu'elle se chargeait de sa voiture."
+    },
+    {
+        "de":"Die Regierung beschloss, die Steuern zu erhöhen.",
+        "fr":"Le gouvernement a décidé d'augmenter les impôts."
+    },
+    {
+        "de":"Sie kocht immer noch mit Olivenöl, obwohl die Arzt ihr gesagt hat, sie solle auf Fett verzichten.",
+        "fr":"Elle continue de cuisiner avec de l'huile d'olive, malgré les conseils du médecin qui lui avait recommandé de rester sans graisse."
+    },
+    {
+        "de":"Es war schon spät, als ich das Restaurant verließ.",
+        "fr":"Il était tard quand je suis sorti du restaurant."
+    },
+    {
+        "de":"Sie hat sich mit den Einladungen für die Hochzeit beschäftigt.",
+        "fr":"Elle s'est occupée des invitations pour le mariage."
+    },
+    {
+        "de":"Er ist vor ein paar Wochen wegen seines krankhaften Gewichtsoperationen unterzogen.",
+        "fr":"Il a subi une opération quelques semaines plus tôt à cause de son poids anormal."
+    },
+    {
+        "de":"Das Kind hat sich auf die Rolle eines Einhörnchens gemacht und hat durch das Zimmer gelaufen.",
+        "fr":"L'enfant s'est déguisé en licorne et a couru dans la pièce."
+    },
+    {
+        "de":"Sie ist so gut im Schwimmen, dass sie den Meilenstein erreicht hat.",
+        "fr":"Elle nage si bien qu'elle a atteint son objectif."
+    },
+    {
+        "de":"Er hat sich voller Wut auf den Verkäufer gerichtet.",
+        "fr":"Il s'est mis en colère contre le vendeur."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man sich amüsiert.",
+        "fr":"Le temps passe rapidement quand on s'amuse."
+    },
+    {
+        "de":"Sie hat ihm einen Brief mit allen Details zum Termin geschrieben.",
+        "fr":"Elle lui a écrit une lettre avec tous les détails concernant le rendez-vous."
+    },
+    {
+        "de":"Er hat sich für eine neue Wohnung entschieden, die viel größer war.",
+        "fr":"Il a choisi une nouvelle appartement, beaucoup plus grand."
+    },
+    {
+        "de":"Das ist die beste Lösung für unser Problem.",
+        "fr":"C'est la meilleure solution à notre problème."
+    },
+    {
+        "de":"Sie hat ihre Haare so gestylt, dass sie wie ein Engel aussah.",
+        "fr":"Elle a stylé ses cheveux de manière à ressembler à un ange."
+    },
+    {
+        "de":"Er hat das Auto unter einem Baum geparkt.",
+        "fr":"Il a garé la voiture sous un arbre."
+    },
+    {
+        "de":"Ich habe das Buch in der Bibliothek gefunden.",
+        "fr":"J'ai trouvé le livre à la bibliothek."
+    },
+    {
+        "de":"Sie hat ihr Lieblingslied angesungen, während wir ins Restaurant gingen.",
+        "fr":"Elle a chanté sa chanson préférée pendant que nous allions au restaurant."
+    },
+    {
+        "de":"Der Teppich ist so alt, dass die Farbe fast abgeblättert ist.",
+        "fr":"Le tapis est si vieux que la couleur est presque entièrement effacée."
+    },
+    {
+        "de":"Sie hat ihm einen Brief geschickt, um ihn anzuschreiben.",
+        "fr":"Elle lui a envoyé une lettre pour lui écrire."
+    },
+    {
+        "de":"Er hat sich mit den Finanzen des Hauses befasst.",
+        "fr":"Il s'est occupé des finances de la maison."
+    },
+    {
+        "de":"Sie hat den ganzen Tag damit verbracht, die Zimmer zu putzen.",
+        "fr":"Elle a passé toute la journée à nettoyer les chambres."
+    },
+    {
+        "de":"Er hat sich mit dem alten Auto umgehängt, als ob es ein Auto von heute wäre.",
+        "fr":"Il s'est amusé avec l'ancienne voiture comme s'il s'agissait de celle d'aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat sich mit den anderen Kindern auf den Spielplatz verloren.",
+        "fr":"L'enfant s'est perdu avec les autres enfants sur le terrain de jeu."
+    },
+    {
+        "de":"Er hat sich mit der Sprache intensiv beschäftigt, um die Prüfung zu bestehen.",
+        "fr":"Il s'est intensivement occupé de la langue pour passer l'examen."
+    },
+    {
+        "de":"Sie hat sich die Haare so getrocknet, dass sie wie eine Fackel aussahen.",
+        "fr":"Elle s'est séchée les cheveux à sec à tel point qu'ils ressemblaient à une flamme."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf die Jagd gemacht.",
+        "fr":"Il est parti chasser avec sa voiture."
+    },
+    {
+        "de":"Sie hat sich die Schuhe an, die sie vor einem Jahr gekauft hatte.",
+        "fr":"Elle s'est chaussée avec des chaussures qu'elle avait achetées l'an dernier."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung befasst.",
+        "fr":"Il s'est occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu probieren.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour essayer une nouvelle recette."
+    },
+    {
+        "de":"Er hat sich mit den Einladungen für die Geburtstagsfeier beschäftigt.",
+        "fr":"Il s'est occupé des invitations pour la fête d'anniversaire."
+    },
+    {
+        "de":"Sie hat sich das Haar hochgestylt, als wäre sie auf einer Modeausschau.",
+        "fr":"Elle s'est fait coiffer comme si elle était sur une soirée de mode."
+    },
+    {
+        "de":"Er hat sich mit der Durchsicht der Unterlagen befasst.",
+        "fr":"Il s'est occupé de la lecture des documents."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um eine neue Suppe zu kochen.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour préparer une nouvelle soupe."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihren alten Schuhen geschluckt.",
+        "fr":"Elle s'est enfoncée dans ses vieilles chaussures."
+    },
+    {
+        "de":"Er hat sich mit dem Auto auf die Jagd gemacht, aber es war verloren.",
+        "fr":"Il est parti chasser avec sa voiture, mais il n'a rien trouvé."
+    },
+    {
+        "de":"Sie hat ihn mit alten Kleidern versorgt.",
+        "fr":"Elle l'a habillé avec des vêtements d'occasion."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est sérieusement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu werden.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Fährt gemacht.",
+        "fr":"Il est parti en voiture pour une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um zu kochen.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour cuisiner."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu sprechen.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Spazierfahrt gemacht.",
+        "fr":"Il est parti en voiture pour faire une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu probieren.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour essayer une nouvelle recette."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu sprechen.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Fährt gemacht.",
+        "fr":"Il est parti en voiture pour faire une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu probieren.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour essayer une nouvelle recette."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich mit ihren alten Kleidern umgewandelt.",
+        "fr":"Elle s'est transformée dans ses vêtements d'occasion."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um sie zu meistern.",
+        "fr":"Elle s'est intensivement occupée de la langue pour la maîtriser."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Jagd gemacht.",
+        "fr":"Il est parti chasser avec sa voiture."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu kochen.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour cuisiner un nouveau plat."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu sprechen.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Reise gemacht.",
+        "fr":"Il est parti en voiture pour une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu probieren.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour essayer une nouvelle recette."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu sprechen.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Fahrt gemacht.",
+        "fr":"Il est parti en voiture pour une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu probieren.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour essayer une nouvelle recette."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um sie zu meistern.",
+        "fr":"Elle s'est intensivement occupée de la langue pour la maîtriser."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Jagd gemacht.",
+        "fr":"Il est parti chasser avec sa voiture."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu kochen.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour cuisiner un nouveau plat."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu sprechen.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Reise gemacht.",
+        "fr":"Il est parti en voiture pour une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu probieren.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour essayer une nouvelle recette."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu sprechen.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Spazierfahrt gemacht.",
+        "fr":"Il est parti en voiture pour faire une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu kochen.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour cuisiner un nouveau plat."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um sie zu meistern.",
+        "fr":"Elle s'est intensivement occupée de la langue pour la maîtriser."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Jagd gemacht.",
+        "fr":"Il est parti chasser avec sa voiture."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu probieren.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour essayer une nouvelle recette."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu sprechen.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Fahrt gemacht.",
+        "fr":"Il est parti en voiture pour une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu kochen.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour cuisiner un nouveau plat."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um sie zu meistern.",
+        "fr":"Elle s'est intensivement occupée de la langue pour la maîtriser."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Jagd gemacht.",
+        "fr":"Il est parti chasser avec sa voiture."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu probieren.",
+        "fr":"Elle s'est intensivement occupée du livre de cuisine pour essayer une nouvelle recette."
+    },
+    {
+        "de":"Er hat sich mit der Einkaufsliste intensiv beschäftigt, um alles zu kaufen.",
+        "fr":"Il s'est sérieusement occupé de la liste d'épicerie pour tout acheter."
+    },
+    {
+        "de":"Sie hat sich in ihre alten Kleider eingerockert.",
+        "fr":"Elle s'est revêtue de ses anciens vêtements."
+    },
+    {
+        "de":"Er hat sich mit der Besichtigung der Wohnung intensiv beschäftigt.",
+        "fr":"Il s'est intensivement occupé de la visite de l'appartement."
+    },
+    {
+        "de":"Sie hat sich mit der Sprache intensiv beschäftigt, um besser zu sprechen.",
+        "fr":"Elle s'est intensivement occupée de la langue pour l'améliorer."
+    },
+    {
+        "de":"Er hat sich mit seinem Auto auf eine Fahrt gemacht.",
+        "fr":"Il est parti en voiture pour une excursion."
+    },
+    {
+        "de":"Sie hat sich mit dem Kochbuch intensiv beschäftigt, um ein neues Gericht zu kochen.",
+        "fr":"Elle s'est intensivement occupée du livre de"
+    },
+    {
+        "de":"Er hat sich als der Mann durchgesetzt, der immer wusst, was zu tun ist.",
+        "fr":"Il est devenu la personne qui sait toujours quoi faire."
+    },
+    {
+        "de":"Nach dem Essen gehen wir immer spazieren, um unseren Magen zu entspannen.",
+        "fr":"Après le dîner, nous faisons toujours une promenade pour faire digérer."
+    },
+    {
+        "de":"Das ist der Tag, an dem ich mich entschied, meine Karriere zu verändern.",
+        "fr":"C'est le jour où j'ai décidé de changer de carrière."
+    },
+    {
+        "de":"Es gibt nichts Schöneres als ein Sonnenaufgang über dem Meer.",
+        "fr":"Il n'y a rien de plus beau qu'un lever de soleil sur la mer."
+    },
+    {
+        "de":"Sie hat ihm gesagt, dass er sich um seine Gesundheit kümmern sollte.",
+        "fr":"Elle lui a dit qu'il devait s'occuper de sa santé."
+    },
+    {
+        "de":"Er hat sich mit dem Motorrad über die Berge geführt und sich dabei gefreut.",
+        "fr":"Il a conduit sa moto à travers les montagnes et s'est amusé."
+    },
+    {
+        "de":"Sie ist die beste Cheffe, die ich je gekannt habe.",
+        "fr":"C'est la meilleure patronne que j'aie connue."
+    },
+    {
+        "de":"Er hat sich über seine Mutter aufgelacht, obwohl sie immer für ihn da war.",
+        "fr":"Il s'est moqué de sa mère, malgré son soutien constant."
+    },
+    {
+        "de":"Das ist die beste Möglichkeit, das Geld in den Bann zu halten.",
+        "fr":"C'est la meilleure façon de garder l'argent éloigné."
+    },
+    {
+        "de":"Sie hat ihm gesagt, dass er aufpassen müsse, dass er nicht zu viel trinke.",
+        "fr":"Elle lui a dit de faire attention à ne pas boire trop."
+    },
+    {
+        "de":"Er hat sich vor den Leuten stolz auf seinen Job gezeigt.",
+        "fr":"Il s'est vanté devant les gens de son emploi."
+    },
+    {
+        "de":"Sie hat ihm gesagt, dass er sich um seine Hausaufgaben kümmern sollte.",
+        "fr":"Elle lui a dit qu'il devait s'occuper de ses devoirs."
+    },
+    {
+        "de":"Er hat sich in dieser Rolle ganz anders als er sich selbst vorgestellt hatte.",
+        "fr":"Il a été complètement différent dans ce rôle de ce qu'il s'était imaginé pour lui-même."
+    },
+    {
+        "de":"Sie hat ihm gesagt, dass er sich um seine Gesundheit kümmern sollte.",
+        "fr":"Elle lui a dit qu'il devait prendre soin de sa santé."
+    },
+    {
+        "de":"Er hat sich über seine Mutter aufgelacht, obwohl sie immer für ihn da war.",
+        "fr":"Il s'est moqué de sa mère, malgré son soutien constant."
+    },
+    {
+        "de":"Sie hat sich mit ihm über ihre Arbeitsprobleme unterhalten.",
+        "fr":"Elle a discuté avec lui de ses problèmes au travail."
+    },
+    {
+        "de":"Er hat sich auf das Spiel konzentriert, als hätte sein Leben davon abhängt.",
+        "fr":"Il s'est concentré sur le jeu comme si sa vie en dépendait."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich in der Bibliothek verloren und konnte nicht mehr rausfinden.",
+        "fr":"Il s'est perdu dans la bibliothèque et ne pouvait plus en sortir."
+    },
+    {
+        "de":"Sie hat sich über seine Art der Kommunikation aufgelacht.",
+        "fr":"Elle s'est moquée de sa façon de communiquer."
+    },
+    {
+        "de":"Er hat sich über seine Mutter aufgelacht, obwohl sie ihm immer half.",
+        "fr":"Il s'est moqué de sa mère, malgré son aide constante."
+    },
+    {
+        "de":"Sie hat sich in das Buch verloren und hat alles um sich herum vergessen.",
+        "fr":"Elle s'est plongée dans le livre et a tout oublié autour d'elle."
+    },
+    {
+        "de":"Er hat sich an diesem Projekt so sehr hingezogen, dass er kein Auge mehr zugetan hat.",
+        "fr":"Il s'est tellement absorbé dans ce projet qu'il n'a plus rien vu."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an diesem Projekt so sehr hingezogen, dass er den ganzen Tag damit verbracht hat.",
+        "fr":"Il s'est tellement absorbé dans ce projet qu'il y a passé toute la journée."
+    },
+    {
+        "de":"Sie hat sich in den Text verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est plongée dans le texte et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Art der Kommunikation aufgelacht.",
+        "fr":"Il s'est moqué de sa façon de communiquer."
+    },
+    {
+        "de":"Sie hat sich über seine Mutter aufgelacht, obwohl sie ihm immer half.",
+        "fr":"Elle s'est moquée de sa mère, malgré son aide constante."
+    },
+    {
+        "de":"Er hat sich auf das Spiel konzentriert, als hätte sein Leben davon abhängt.",
+        "fr":"Il s'est concentré sur le jeu comme si sa vie dépendait de cela."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich mit der Geschichte der Stadt beschäftigt, während wir durch die Straßen gingen.",
+        "fr":"Il s'est occupé de l'histoire de la ville pendant que nous marchions dans les rues."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich mit den anderen über die Karte unterhalten und hat sie eine Weile lang studiert.",
+        "fr":"Il a parlé avec les autres de la carte et l'a étudiée pendant un certain temps."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über die Zuschauer aufgelacht, die ihn anstarrten.",
+        "fr":"Il s'est moqué des spectateurs qui le regardaient fixement."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich in das Buch verloren und hat alles um sich herum vergessen.",
+        "fr":"Il s'est plongé dans le livre et a tout oublié autour de lui."
+    },
+    {
+        "de":"Sie hat sich auf die Fahrt ins Büro konzentriert, als hätte ihr Leben davon abhängt.",
+        "fr":"Elle s'est concentrée sur le trajet au bureau comme si sa vie en dépendait."
+    },
+    {
+        "de":"Er hat sich über die Musik aufgelacht, die im Hintergrund gespielt wurde.",
+        "fr":"Il s'est moqué de la musique qui jouait en arrière-fond."
+    },
+    {
+        "de":"Sie hat sich in das Buch verloren und hat alles um sich herum vergessen.",
+        "fr":"Elle s'est plongée dans le livre et a tout oublié autour d'elle."
+    },
+    {
+        "de":"Er hat sich an dem Gedicht so sehr hingezogen, dass er die Nacht hindurch gelesen hat.",
+        "fr":"Il s'est tellement intéressé au poème qu'il l'a lu toute la nuit."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Fähigkeiten aufgelacht, obwohl er Hilfe brauchte.",
+        "fr":"Il s'est moqué de ses compétences, malgré son besoin d'aide."
+    },
+    {
+        "de":"Sie hat sich in den Berichten verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les rapports et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich auf den Film konzentriert, als hätte sein Leben davon abhängt.",
+        "fr":"Il s'est concentré sur le film comme si sa vie en dépendait."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über die Fotografien aufgelacht, die er gemacht hatte.",
+        "fr":"Il s'est moqué des photos qu'il avait prises."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über die Zuschauer aufgelacht, die ihn anstarrten.",
+        "fr":"Il s'est moqué des spectateurs qui le regardaient fixement."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich auf das Spiel konzentriert, als hätte sein Leben davon abhängt.",
+        "fr":"Il s'est concentré sur le jeu comme si sa vie dépendait de cela."
+    },
+    {
+        "de":"Sie hat sich in das Buch verloren und hat alles um sich herum vergessen.",
+        "fr":"Elle s'est plongée dans le livre et a tout oublié autour d'elle."
+    },
+    {
+        "de":"Er hat sich über seine Fähigkeiten aufgelacht, obwohl er Hilfe brauchte.",
+        "fr":"Il s'est moqué de ses compétences, malgré son besoin d'aide."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über die Musik aufgelacht, die im Hintergrund gespielt wurde.",
+        "fr":"Il s'est moqué de la musique qui jouait en arrière-fond."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Art der Kommunikation aufgelacht.",
+        "fr":"Il s'est moqué de sa façon de communiquer."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Mutter aufgelacht, obwohl sie ihm immer half.",
+        "fr":"Il s'est moqué de sa mère, malgré son aide constante."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich auf den Film konzentriert, als hätte sein Leben davon abhängt.",
+        "fr":"Il s'est concentré sur le film comme si sa vie en dépendait."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über die Zuschauer aufgelacht, die ihn anstarrten.",
+        "fr":"Il s'est moqué des spectateurs qui le regardaient fixement."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich auf das Spiel konzentriert, als hätte sein Leben davon abhängt.",
+        "fr":"Il s'est concentré sur le jeu comme si sa vie en dépendait."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Fähigkeiten aufgelacht, obwohl er Hilfe brauchte.",
+        "fr":"Il s'est moqué de ses compétences, malgré son besoin d'aide."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über die Musik aufgelacht, die im Hintergrund gespielt wurde.",
+        "fr":"Il s'est moqué de la musique qui jouait en arrière-fond."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Art der Kommunikation aufgelacht.",
+        "fr":"Il s'est moqué de sa façon de communiquer."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Mutter aufgelacht, obwohl sie ihm immer half.",
+        "fr":"Il s'est moqué de sa mère, malgré son aide constante."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich auf den Film konzentriert, als hätte sein Leben davon abhängt.",
+        "fr":"Il s'est concentré sur le film comme si sa vie en dépendait."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über die Zuschauer aufgelacht, die ihn anstarrten.",
+        "fr":"Il s'est moqué des spectateurs qui le regardaient fixement."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich auf das Spiel konzentriert, als hätte sein Leben davon abhängt.",
+        "fr":"Il s'est concentré sur le jeu comme si sa vie en dépendait."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Fähigkeiten aufgelacht, obwohl er Hilfe brauchte.",
+        "fr":"Il s'est moqué de ses compétences, malgré son besoin d'aide."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über seine Art der Kommunikation aufgelacht.",
+        "fr":"Il s'est moqué de sa façon de communiquer."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Manchmal muss man das Leben einfach genießen, wie es kommt.",
+        "fr":"Parfois, il faut simplement profiter de la vie comme elle vient."
+    },
+    {
+        "de":"Er hat sich die Haare gestutzt, als wäre sein Leben davon abhängig.",
+        "fr":"Il s'est fait couper les cheveux comme si sa vie en dépendait."
+    },
+    {
+        "de":"Sie hat sich mit ihm über die neuesten Trends unterhalten.",
+        "fr":"Elle a parlé avec lui des dernières tendances."
+    },
+    {
+        "de":"Es hat ihn so fasziniert, dass er sich nicht mehr losreißen konnte.",
+        "fr":"Cela l'a fasciné au point qu'il ne pouvait plus s'en détacher."
+    },
+    {
+        "de":"Sie ist so aufgeregt gewesen, als hätte sie den Lotto gewonnen.",
+        "fr":"Elle était si excitée qu'elle avait l'impression d'avoir gagné à la loterie."
+    },
+    {
+        "de":"Er hat sich über die Musik aufgelacht, die im Hintergrund gespielt wurde.",
+        "fr":"Il s'est moqué de la musique qui jouait en arrière-fond."
+    },
+    {
+        "de":"Sie hat sich in der Bibliothek verloren und konnte nicht mehr rausfinden.",
+        "fr":"Elle s'est perdue dans la bibliothèque et ne pouvait plus en sortir."
+    },
+    {
+        "de":"Er hat sich über seine Art der Kommunikation aufgelacht.",
+        "fr":"Il s'est moqué de sa façon de communiquer."
+    },
+    {
+        "de":"Sie hat sich über seine Mutter aufgelacht, obwohl sie ihm immer half.",
+        "fr":"Elle s'est moquée de sa mère, malgré son aide constante."
+    },
+    {
+        "de":"Er hat sich an der Konferenz so sehr hingezogen, dass er die Zeit vergessen hat.",
+        "fr":"Il s'est tellement intéressé à la conférence qu'il a oublié l'heure."
+    },
+    {
+        "de":"Sie hat sich in die Unterlagen verloren und konnte nicht mehr aufstehen.",
+        "fr":"Elle s'est perdue dans les documents et ne pouvait plus se lever."
+    },
+    {
+        "de":"Er hat sich über die Zuschauer aufgelacht, die ihn anstarrten.",
+        "fr":"Il s'est moqué des"
+    },
+    {
+        "de":"Es war ein schöner Tag für ein Spaziergang in den Park.",
+        "fr":"C'était une belle journée pour une promenade dans le parc."
+    },
+    {
+        "de":"Ich habe gestern Abend einen Film im Kino gesehen.",
+        "fr":"Hier soir, j'ai vu un film au cinéma."
+    },
+    {
+        "de":"Meine Eltern sind in Frankreich auf Urlaub.",
+        "fr":"Mes parents sont en vacances en France."
+    },
+    {
+        "de":"Die Kinder spielen im Garten.",
+        "fr":"Les enfants jouent dans le jardin."
+    },
+    {
+        "de":"Ich habe heute morgen Kaffee getrunken.",
+        "fr":"J'ai bu du café ce matin."
+    },
+    {
+        "de":"Das Wetter war heute sehr schön.",
+        "fr":"Il faisait très beau aujourd'hui."
+    },
+    {
+        "de":"Wir feiern Heiligabend mit meiner Familie.",
+        "fr":"Nous célébrons Noël avec ma famille."
+    },
+    {
+        "de":"Die Katze schläft auf dem Sofa.",
+        "fr":"Le chat dort sur le canapé."
+    },
+    {
+        "de":"Er arbeitet als Arzt in der Stadt.",
+        "fr":"Il travaille médecin dans la ville."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Ich muss morgen früh ins Büro kommen.",
+        "fr":"Je dois aller au bureau tôt demain matin."
+    },
+    {
+        "de":"Das Essen schmeckt sehr gut.",
+        "fr":"Le plat a très bon goût."
+    },
+    {
+        "de":"Er spielt gerne Fußball.",
+        "fr":"Il aime jouer au football."
+    },
+    {
+        "de":"Sie liebt es, Bücher zu lesen.",
+        "fr":"Elle aime lire des livres."
+    },
+    {
+        "de":"Wir haben uns gestern in einem Restaurant getroffen.",
+        "fr":"Nous nous sommes rencontrés dans un restaurant hier soir."
+    },
+    {
+        "de":"Er ist ein sehr netter Kerl.",
+        "fr":"Il est un homme très gentil."
+    },
+    {
+        "de":"Das ist mein neues Auto.",
+        "fr":"C'est ma nouvelle voiture."
+    },
+    {
+        "de":"Sie arbeitet als Lehrerin in der Schule.",
+        "fr":"Elle travaille professeure à l'école."
+    },
+    {
+        "de":"Ich esse gerne Pasta.",
+        "fr":"J'aime bien la pâtes."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Er hat einen schönen Garten.",
+        "fr":"Il a un beau jardin."
+    },
+    {
+        "de":"Sie hat lange dunkle Haare.",
+        "fr":"Elle a des cheveux longs et noirs."
+    },
+    {
+        "de":"Er liebt es, draußen zu spazieren.",
+        "fr":"Il aime se promener dehors."
+    },
+    {
+        "de":"Ich brauche Hilfe bei meinem Hausarbeiten.",
+        "fr":"J'ai besoin d'aide pour mes tâches ménagères."
+    },
+    {
+        "de":"Sie kann gut français.",
+        "fr":"Elle parle bien le français."
+    },
+    {
+        "de":"Er ist ein guter Koch.",
+        "fr":"Il est un bon cuisinier."
+    },
+    {
+        "de":"Das ist mein Lieblingsbuch.",
+        "fr":"C'est mon livre préféré."
+    },
+    {
+        "de":"Wir haben ein schönes Urlaubsziel gewählt.",
+        "fr":"Nous avons choisi un magnifique lieu de vacances."
+    },
+    {
+        "de":"Sie ist eine hervorragende Studentin.",
+        "fr":"Elle est une excellente élève."
+    },
+    {
+        "de":"Er hat eine wichtige Präsentation morgen.",
+        "fr":"Il a une présentation importante demain."
+    },
+    {
+        "de":"Ich liebe es, Musik zu hören.",
+        "fr":"J'aime bien écouter de la musique."
+    },
+    {
+        "de":"Sie ist eine berührende Geschichte.",
+        "fr":"C'est une histoire touchante."
+    },
+    {
+        "de":"Er hat einen schönen Puls.",
+        "fr":"Il a un bon rythme cardiaque."
+    },
+    {
+        "de":"Ich esse gerne Eis nach dem Abendessen.",
+        "fr":"J'aime bien manger de la glace après le dîner."
+    },
+    {
+        "de":"Er ist ein ausgezeichneter Lehrer.",
+        "fr":"Il est un excellent professeur."
+    },
+    {
+        "de":"Sie hat einen schönen Haushalt.",
+        "fr":"Elle a un beau ménage."
+    },
+    {
+        "de":"Er hält sich an sein Training.",
+        "fr":"Il respecte son entraînement."
+    },
+    {
+        "de":"Ich mag es, Regen zu sehen.",
+        "fr":"J'aime voir pleuvoir."
+    },
+    {
+        "de":"Sie ist sehr fleißig.",
+        "fr":"Elle est très travailleuse."
+    },
+    {
+        "de":"Er ist ein guter Freund.",
+        "fr":"Il est un bon ami."
+    },
+    {
+        "de":"Ich freue mich auf den Urlaub.",
+        "fr":"J'ai hâte de partir en vacances."
+    },
+    {
+        "de":"Sie hat eine berührende Stimme.",
+        "fr":"Elle a une voix touchante."
+    },
+    {
+        "de":"Er kennt viele Leute.",
+        "fr":"Il connait beaucoup de monde."
+    },
+    {
+        "de":"Sie ist eine kluge Frau.",
+        "fr":"Elle est une femme très intelligente."
+    },
+    {
+        "de":"Er ist ein guter Sänger.",
+        "fr":"Il est un bon chanteur."
+    },
+    {
+        "de":"Ich habe einen schönen Tag vor mir.",
+        "fr":"J'ai une belle journée devant moi."
+    },
+    {
+        "de":"Sie hat einen schönen Garten.",
+        "fr":"Elle a un beau jardin."
+    },
+    {
+        "de":"Er liebt es, Reisen zu machen.",
+        "fr":"Il aime se promener."
+    },
+    {
+        "de":"Ich habe ein neues Buch bekommen.",
+        "fr":"J'ai reçu un nouveau livre."
+    },
+    {
+        "de":"Sie kann gut kochen.",
+        "fr":"Elle cuisine bien."
+    },
+    {
+        "de":"Er hat eine tolle Party organisiert.",
+        "fr":"Il a organisé une super fête."
+    },
+    {
+        "de":"Ich liebe es, Kaffee zu trinken.",
+        "fr":"J'aime boire du café."
+    },
+    {
+        "de":"Sie hat lange Haare.",
+        "fr":"Elle a les cheveux longs."
+    },
+    {
+        "de":"Er ist ein guter Zeichner.",
+        "fr":"Il est un bon dessinateur."
+    },
+    {
+        "de":"Ich esse gerne Pizza.",
+        "fr":"J'aime bien la pizza."
+    },
+    {
+        "de":"Sie hat einen schönen Job.",
+        "fr":"Elle a un bon travail."
+    },
+    {
+        "de":"Er ist ein guter Arzt.",
+        "fr":"Il est un bon médecin."
+    },
+    {
+        "de":"Ich habe ein schönes Leben.",
+        "fr":"J'ai une belle vie."
+    },
+    {
+        "de":"Sie hat eine tolle Familie.",
+        "fr":"Elle a une belle famille."
+    },
+    {
+        "de":"Er ist ein guter Vater.",
+        "fr":"Il est un bon père."
+    },
+    {
+        "de":"Ich liebe es, auf der Terrasse zu sitzen.",
+        "fr":"J'aime bien m'asseoir sur la terrasse."
+    },
+    {
+        "de":"Sie hat einen schönen Anblick.",
+        "fr":"Elle a une belle vue."
+    },
+    {
+        "de":"Er ist ein guter Chef.",
+        "fr":"Il est un bon patron."
+    },
+    {
+        "de":"Ich habe einen schönen Tag mit meiner Freundin verbracht.",
+        "fr":"J'ai passé une belle journée avec ma copine."
+    },
+    {
+        "de":"Sie hat einen schönen Karren.",
+        "fr":"Elle a un beau chariot."
+    },
+    {
+        "de":"Er ist ein guter Schwimmer.",
+        "fr":"Il est un bon nageur."
+    },
+    {
+        "de":"Ich liebe es, im Park zu spazieren.",
+        "fr":"J'aime se promener dans le parc."
+    },
+    {
+        "de":"Sie hat einen schönen Vogel als Haustier.",
+        "fr":"Elle a un beau volatile comme animal de compagnie."
+    },
+    {
+        "de":"Er ist ein guter Freund.",
+        "fr":"Il est un bon ami."
+    },
+    {
+        "de":"Ich habe eine schöne Wohnung.",
+        "fr":"J'ai une belle maison."
+    },
+    {
+        "de":"Sie hat einen schönen Garten.",
+        "fr":"Elle a un beau jardin."
+    },
+    {
+        "de":"Er ist ein guter Koch.",
+        "fr":"Il est un bon cuisinier."
+    },
+    {
+        "de":"Ich liebe es, in der Bibliothek zu lesen.",
+        "fr":"J'aime lire dans la bibliothèque."
+    },
+    {
+        "de":"Sie hat einen schönen Tag vor sich.",
+        "fr":"Elle a une belle journée devant elle."
+    },
+    {
+        "de":"Er ist ein guter Fahrer.",
+        "fr":"Il est un bon conducteur."
+    },
+    {
+        "de":"Ich habe eine schöne Zeit mit ihm verbracht.",
+        "fr":"J'ai passé une belle journée avec lui."
+    },
+    {
+        "de":"Sie hat einen schönen Anblick.",
+        "fr":"Elle a une belle vue."
+    },
+    {
+        "de":"Er ist ein guter Hörer.",
+        "fr":"Il est un bon auditeur."
+    },
+    {
+        "de":"Ich liebe es, in der Küche zu kochen.",
+        "fr":"J'aime cuisiner en cuisine."
+    },
+    {
+        "de":"Sie hat einen schönen Job.",
+        "fr":"Elle a un bon travail."
+    },
+    {
+        "de":"Er ist ein guter Vater.",
+        "fr":"Il est un bon père."
+    },
+    {
+        "de":"Ich habe einen schönen Tag mit meinem Bruder verbracht.",
+        "fr":"J'ai passé une belle journée avec mon frère."
+    },
+    {
+        "de":"Sie hat einen schönen Vogel als Haustier.",
+        "fr":"Elle a un beau volatile comme animal de compagnie."
+    },
+    {
+        "de":"Er ist ein guter Schwimmer.",
+        "fr":"Il est un bon nageur."
+    },
+    {
+        "de":"Ich liebe es, im Park zu laufen.",
+        "fr":"J'aime bien faire de la promenade dans le parc."
+    },
+    {
+        "de":"Sie hat einen schönen Anblick.",
+        "fr":"Elle a une belle vue."
+    },
+    {
+        "de":"Er ist ein guter Freund.",
+        "fr":"Il est un bon ami."
+    },
+    {
+        "de":"Ich habe eine schöne Wohnung.",
+        "fr":"J'ai une belle maison."
+    },
+    {
+        "de":"Sie hat einen schönen Garten.",
+        "fr":"Elle a un beau jardin."
+    },
+    {
+        "de":"Er ist ein guter Koch.",
+        "fr":"Il est un bon cuisinier."
+    },
+    {
+        "de":"Ich liebe es, in der Küche zu kochen.",
+        "fr":"J'aime cuisiner en cuisine."
+    },
+    {
+        "de":"Sie hat einen schönen Job.",
+        "fr":"Elle a un bon travail."
+    },
+    {
+        "de":"Er ist ein guter Vater.",
+        "fr":"Il est un bon père."
+    },
+    {
+        "de":"Ich habe einen schönen Tag mit meiner Freundin verbracht.",
+        "fr":"J'ai passé une belle journée avec ma copine."
+    },
+    {
+        "de":"Sie hat einen schönen Vogel als Haustier.",
+        "fr":"Elle a un beau volatile comme animal de compagnie."
+    },
+    {
+        "de":"Er ist ein guter Schwimmer.",
+        "fr":"Il est un bon nageur."
+    },
+    {
+        "de":"Ich liebe es, im Park zu laufen.",
+        "fr":"J'aime faire de la promenade dans le parc."
+    },
+    {
+        "de":"Sie hat einen schönen Anblick.",
+        "fr":"Elle a une belle vue."
+    },
+    {
+        "de":"Er ist ein guter Freund.",
+        "fr":"Il est un bon ami."
+    },
+    {
+        "de":"Ich habe eine schöne Wohnung.",
+        "fr":"J'ai une belle maison."
+    },
+    {
+        "de":"Ich bin froh, dass ich heute morgen nach Hause kommen konnte.",
+        "fr":"Je suis heureux de pouvoir rentrer chez moi ce matin."
+    },
+    {
+        "de":"Der Tag war so sonnig und warm, dass wir den ganzen Tag draußen verbringen konnten.",
+        "fr":"Le jour était si ensoleillé et chaud que nous avons passé toute la journée à l'extérieur."
+    },
+    {
+        "de":"Meine Mutter hat mir heute ein neues Buch geschenkt.",
+        "fr":"Ma mère m'a offert un nouveau livre aujourd'hui."
+    },
+    {
+        "de":"Das Essen schmeckte heute besonders lecker.",
+        "fr":"Le repas avait un goût particulièrement délicieux aujourd'hui."
+    },
+    {
+        "de":"Er hatte keine Zeit, zu antworten, denn wir mussten uns beeilen.",
+        "fr":"Il n'avait pas le temps de répondre, car nous devions nous dépêcher."
+    },
+    {
+        "de":"Sie liebt es, in der Bibliothek zu lesen und wusste fast alles über die Geschichte der Welt.",
+        "fr":"Elle aime lire dans la bibliothèque et elle connaissait presque tout sur l'histoire du monde."
+    },
+    {
+        "de":"Die Kinder spielen gerne im Park.",
+        "fr":"Les enfants aiment jouer dans le parc."
+    },
+    {
+        "de":"Ich habe keine Lust, heute Abend zu essen.",
+        "fr":"Je n'ai pas envie de dîner ce soir."
+    },
+    {
+        "de":"Er erzählte mir eine Geschichte, die mich zum Lachen brachte.",
+        "fr":"Il m'a raconté une histoire qui m'a fait rire."
+    },
+    {
+        "de":"Die Tiere im Zoo waren sehr interessant anzusehen.",
+        "fr":"Les animaux du zoo étaient très intéressants à regarder."
+    },
+    {
+        "de":"Wir haben uns entschieden, am Wochenende ins Gebirge zu fahren.",
+        "fr":"Nous avons décidé de passer le week-end dans les montagnes."
+    },
+    {
+        "de":"Die Erntezeit beginnt bald, und die Bauern arbeiten sehr hart.",
+        "fr":"La saison des récoltes commence bientôt, et les fermiers travaillent très dur."
+    },
+    {
+        "de":"Das Kind hatte Angst, im Finstern zu bleiben.",
+        "fr":"L'enfant avait peur de rester dans le noir."
+    },
+    {
+        "de":"Er war stolz auf sein neues Auto.",
+        "fr":"Il était fier de son nouveau véhicule."
+    },
+    {
+        "de":"Sie liebt es, in der Küche herumzulaufen und zu helfen.",
+        "fr":"Elle aime se promener en cuisine et aider."
+    },
+    {
+        "de":"Das Wetter war so schön, dass wir die Fenster geöffnet haben.",
+        "fr":"Le temps était si beau que nous avons ouvert les fenêtres."
+    },
+    {
+        "de":"Er hat mir heute einen Brief geschrieben.",
+        "fr":"Il m'a écrit une lettre aujourd'hui."
+    },
+    {
+        "de":"Die Bibliothek ist eine der schönsten Gebäude im Stadtzentrum.",
+        "fr":"La bibliothèque est l'un des plus beaux bâtiments du centre-ville."
+    },
+    {
+        "de":"Wir gehen jeden Montag zusammen ins Gymnasium.",
+        "fr":"Nous allons tous les lundis au gymnase ensemble."
+    },
+    {
+        "de":"Sie ist eine unglaublich talentierte Künstlerin.",
+        "fr":"Elle est une artiste incroyablement talentueuse."
+    },
+    {
+        "de":"Er erzählte mir von seinen Abenteuern im Ausland.",
+        "fr":"Il m'a parlé de ses aventures à l'étranger."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man Spaß hat.",
+        "fr":"Le temps passe vite quand on s'amuse."
+    },
+    {
+        "de":"Ich habe keine Ahnung, was ich essen soll.",
+        "fr":"Je ne sais pas ce que je vais manger."
+    },
+    {
+        "de":"Die Herzen der Kinder schlagen schneller, wenn sie etwas Neues erwarten.",
+        "fr":"Les cœurs des enfants battent plus vite quand ils attendent quelque chose de nouveau."
+    },
+    {
+        "de":"Sie liebt es, in der Natur zu wandern.",
+        "fr":"Elle aime se promener dans la nature."
+    },
+    {
+        "de":"Er ist ein sehr fleißiger Schüler.",
+        "fr":"Il est un élève très assidu."
+    },
+    {
+        "de":"Die Nachbarn hören uns immer, wenn wir laut sind.",
+        "fr":"Les voisins nous entendent toujours quand nous sommes bruyants."
+    },
+    {
+        "de":"Sie gibt jedem Tag eine besondere Bedeutung.",
+        "fr":"Elle donne une signification particulière à chaque jour."
+    },
+    {
+        "de":"Das Essen war so lecker, dass ich es fast alleine gegessen hätte.",
+        "fr":"Le repas était si délicieux que j'aurais presque tout mangé seul."
+    },
+    {
+        "de":"Er hat seine Zeit damit verbracht, den Garten zu pflegen.",
+        "fr":"Il a passé son temps à entretenir le jardin."
+    },
+    {
+        "de":"Die Zeit, die wir zusammen verbringen, ist unbeschreiblich.",
+        "fr":"Le temps que nous passons ensemble est indescriptible."
+    },
+    {
+        "de":"Sie hat mich heute gefragt, ob ich morgen mitkommen will.",
+        "fr":"Elle m'a demandé aujourd'hui si je voulais venir demain."
+    },
+    {
+        "de":"Die Katze schläft meistens auf meinem Sofa.",
+        "fr":"Le chat dort généralement sur mon canapé."
+    },
+    {
+        "de":"Ich habe einen neuen Job gefunden.",
+        "fr":"J'ai trouvé un nouveau travail."
+    },
+    {
+        "de":"Die Nachricht war wirklich überraschend.",
+        "fr":"Le message était vraiment surprenant."
+    },
+    {
+        "de":"Sie hat mich heute einen ganzen Tag lang angerufen.",
+        "fr":"Elle m'a appelé pendant toute la journée aujourd'hui."
+    },
+    {
+        "de":"Das Wetter war so schlecht, dass wir im Haus geblieben sind.",
+        "fr":"Le temps était si mauvais que nous sommes restés à la maison."
+    },
+    {
+        "de":"Er hat mich heute angerufen und mich um mein Wohlbefinden gefragt.",
+        "fr":"Il m'a appelé aujourd'hui et m'a demandé de mes nouvelles."
+    },
+    {
+        "de":"Die Sonne strahlte, und wir haben uns auf dem Strand entspannt.",
+        "fr":"Le soleil brillait et nous nous sommes détendus sur la plage."
+    },
+    {
+        "de":"Sie liebt es, Kaffee zu trinken, besonders in der Frühlingssonne.",
+        "fr":"Elle aime boire du café, en particulier dans la lumière du matin d'avril."
+    },
+    {
+        "de":"Das Essen am Restaurant war ausgezeichnet.",
+        "fr":"Le repas au restaurant était excellent."
+    },
+    {
+        "de":"Er hat mich heute im Park getroffen und uns einen Spaziergang gemacht.",
+        "fr":"Il m'a rencontré dans le parc aujourd'hui et nous avons fait une promenade."
+    },
+    {
+        "de":"Die Schüler arbeiten hart, um ihre Prüfungen zu bestehen.",
+        "fr":"Les élèves travaillent dur pour réussir leurs examens."
+    },
+    {
+        "de":"Die Einladung war sehr formell.",
+        "fr":"L'invitation était très formelle."
+    },
+    {
+        "de":"Sie mag es, in der Stadt zu wandern und neue Menschen kennenzulernen.",
+        "fr":"Elle aime se promener en ville et rencontrer de nouvelles personnes."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Freundin gemacht.",
+        "fr":"L'enfant a fait une nouvelle amie aujourd'hui."
+    },
+    {
+        "de":"Er hat mich heute um ein neues Projekt gebeten.",
+        "fr":"Il m'a invité aujourd'hui à participer à un nouveau projet."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man zusammen mit Freunden ist.",
+        "fr":"Le temps passe vite quand on est avec des amis."
+    },
+    {
+        "de":"Ich habe heute eine wichtige E-Mail erhalten.",
+        "fr":"J'ai reçu un e-mail importante aujourd'hui."
+    },
+    {
+        "de":"Die Geschichte im Film war sehr spannend.",
+        "fr":"L'histoire du film était très intéressante."
+    },
+    {
+        "de":"Sie liebt es, Kochen zu lernen und neue Gerichte zu probieren.",
+        "fr":"Elle aime apprendre à cuisiner et essayer de nouvelles recettes."
+    },
+    {
+        "de":"Er hat heute einen neuen Job angenommen.",
+        "fr":"Il a accepté un nouveau travail aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Schule angefangen.",
+        "fr":"L'enfant a commencé une nouvelle école aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute entschieden, in ein neues Restaurant zu gehen.",
+        "fr":"Nous avons décidé aujourd'hui d'aller dans un nouveau restaurant."
+    },
+    {
+        "de":"Die Nachricht war so schlecht, dass ich mich gleich weinte.",
+        "fr":"Le message était si mauvais que je suis tombée immédiatement en larmes."
+    },
+    {
+        "de":"Sie ist eine ausgezeichnete Lehrerin.",
+        "fr":"Elle est une excellente professeure."
+    },
+    {
+        "de":"Er hat heute einen Vortrag über Geschichte gehalten.",
+        "fr":"Il a tenu un cours sur l'histoire aujourd'hui."
+    },
+    {
+        "de":"Die Kinder lieben es, im Regen zu spielen.",
+        "fr":"Les enfants adorent jouer dans la pluie."
+    },
+    {
+        "de":"Das Wetter war so gut, dass wir den ganzen Tag draußen verbringen konnten.",
+        "fr":"Le temps était si beau que nous avons passé toute la journée à l'extérieur."
+    },
+    {
+        "de":"Er hat heute viele Briefe geschrieben.",
+        "fr":"Il a écrit beaucoup de lettres aujourd'hui."
+    },
+    {
+        "de":"Die Geschichte im Buch war sehr traurig.",
+        "fr":"L'histoire du livre était très triste."
+    },
+    {
+        "de":"Sie liebt es, Musik zu hören und zu tanzen.",
+        "fr":"Elle aime écouter de la musique et danser."
+    },
+    {
+        "de":"Er hat heute eine wichtige Entscheidung getroffen.",
+        "fr":"Il a pris une décision importante aujourd'hui."
+    },
+    {
+        "de":"Die Familie ist heute zum Grillen gegangen.",
+        "fr":"La famille est allée griller aujourd'hui."
+    },
+    {
+        "de":"Es gibt viele schöne Orte, an denen man sich entspannen kann.",
+        "fr":"Il y a beaucoup de belles endroits où se détendre."
+    },
+    {
+        "de":"Sie hat mich heute um meine Meinung gefragt.",
+        "fr":"Elle m'a demandé aujourd'hui de mon avis."
+    },
+    {
+        "de":"Er hat heute ein neues Auto gekauft.",
+        "fr":"Il a acheté un nouveau véhicule aujourd'hui."
+    },
+    {
+        "de":"Die Nachricht war sehr wichtig, deshalb habe ich mich beeilt.",
+        "fr":"Le message était très important, donc je me suis dépêché."
+    },
+    {
+        "de":"Sie liebt es, im Sommer unter freiem Himmel zu arbeiten.",
+        "fr":"Elle aime travailler à l'air libre en été."
+    },
+    {
+        "de":"Er hat heute eine große Präsentation gehalten.",
+        "fr":"Il a tenu une grande présentation aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine neue Freundin gemacht.",
+        "fr":"J'ai fait une nouvelle amie aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute feiern.",
+        "fr":"Les voisins ont célébré aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Schule angefangen.",
+        "fr":"L'enfant a commencé une nouvelle école aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute entschieden, einen Film im Kino zu sehen.",
+        "fr":"Nous avons décidé aujourd'hui d'aller au cinéma."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie ist eine großzügige Frau.",
+        "fr":"Elle est une femme généreuse."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin gehalten.",
+        "fr":"Il a eu une réunion importante aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man Bücher liest.",
+        "fr":"Le temps passe vite quand on lit des livres."
+    },
+    {
+        "de":"Ich habe heute eine wichtige Entscheidung getroffen.",
+        "fr":"J'ai pris une décision importante aujourd'hui."
+    },
+    {
+        "de":"Die Kinder haben heute eine große Party gegeben.",
+        "fr":"Les enfants ont organisé une grande fête aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie liebt es, im Sommer unter freiem Himmel zu arbeiten.",
+        "fr":"Elle aime travailler à l'air libre en été."
+    },
+    {
+        "de":"Er hat heute eine wichtige Präsentation gehalten.",
+        "fr":"Il a tenu une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine neue Freundin gemacht.",
+        "fr":"J'ai fait une nouvelle amie aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute feiern.",
+        "fr":"Les voisins ont célébré aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Schule angefangen.",
+        "fr":"L'enfant a commencé une nouvelle école aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute entschieden, einen Film im Kino zu sehen.",
+        "fr":"Nous avons décidé aujourd'hui d'aller au cinéma."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie ist eine großzügige Frau.",
+        "fr":"Elle est une femme généreuse."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin gehalten.",
+        "fr":"Il a eu une réunion importante aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine wichtige Entscheidung getroffen.",
+        "fr":"J'ai pris une décision importante aujourd'hui."
+    },
+    {
+        "de":"Die Kinder haben heute eine große Party gegeben.",
+        "fr":"Les enfants ont organisé une grande fête aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie liebt es, im Sommer unter freiem Himmel zu arbeiten.",
+        "fr":"Elle aime travailler à l'air libre en été."
+    },
+    {
+        "de":"Er hat heute eine wichtige Präsentation gehalten.",
+        "fr":"Il a tenu une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine neue Freundin gemacht.",
+        "fr":"J'ai fait une nouvelle amie aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute feiern.",
+        "fr":"Les voisins ont célébré aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Schule angefangen.",
+        "fr":"L'enfant a commencé une nouvelle école aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute entschieden, einen Film im Kino zu sehen.",
+        "fr":"Nous avons décidé aujourd'hui d'aller au cinéma."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie ist eine großzügige Frau.",
+        "fr":"Elle est une femme généreuse."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin gehalten.",
+        "fr":"Il a eu une réunion importante aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine wichtige Entscheidung getroffen.",
+        "fr":"J'ai pris une décision importante aujourd'hui."
+    },
+    {
+        "de":"Die Kinder haben heute eine große Party gegeben.",
+        "fr":"Les enfants ont organisé une grande fête aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie liebt es, im Sommer unter freiem Himmel zu arbeiten.",
+        "fr":"Elle aime travailler à l'air libre en été."
+    },
+    {
+        "de":"Er hat heute eine wichtige Präsentation gehalten.",
+        "fr":"Il a tenu une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine neue Freundin gemacht.",
+        "fr":"J'ai fait une nouvelle amie aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute feiern.",
+        "fr":"Les voisins ont célébré aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Schule angefangen.",
+        "fr":"L'enfant a commencé une nouvelle école aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute entschieden, einen Film im Kino zu sehen.",
+        "fr":"Nous avons décidé aujourd'hui d'aller au cinéma."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie ist eine großzügige Frau.",
+        "fr":"Elle est une femme généreuse."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin gehalten.",
+        "fr":"Il a eu une réunion importante aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine wichtige Entscheidung getroffen.",
+        "fr":"J'ai pris une décision importante aujourd'hui."
+    },
+    {
+        "de":"Die Kinder haben heute eine große Party gegeben.",
+        "fr":"Les enfants ont organisé une grande fête aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie liebt es, im Sommer unter freiem Himmel zu arbeiten.",
+        "fr":"Elle aime travailler à l'air libre en été."
+    },
+    {
+        "de":"Er hat heute eine wichtige Präsentation gehalten.",
+        "fr":"Il a tenu une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine neue Freundin gemacht.",
+        "fr":"J'ai fait une nouvelle amie aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute feiern.",
+        "fr":"Les voisins ont célébré aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Schule angefangen.",
+        "fr":"L'enfant a commencé une nouvelle école aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute entschieden, einen Film im Kino zu sehen.",
+        "fr":"Nous avons décidé aujourd'hui d'aller au cinéma."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie ist eine großzügige Frau.",
+        "fr":"Elle est une femme généreuse."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin gehalten.",
+        "fr":"Il a eu une réunion importante aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine wichtige Entscheidung getroffen.",
+        "fr":"J'ai pris une décision importante aujourd'hui."
+    },
+    {
+        "de":"Die Kinder haben heute eine große Party gegeben.",
+        "fr":"Les enfants ont organisé une grande fête aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie liebt es, im Sommer unter freiem Himmel zu arbeiten.",
+        "fr":"Elle aime travailler à l'air libre en été."
+    },
+    {
+        "de":"Er hat heute eine wichtige Präsentation gehalten.",
+        "fr":"Il a tenu une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine neue Freundin gemacht.",
+        "fr":"J'ai fait une nouvelle amie aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute feiern.",
+        "fr":"Les voisins ont célébré aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Schule angefangen.",
+        "fr":"L'enfant a commencé une nouvelle école aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute entschieden, einen Film im Kino zu sehen.",
+        "fr":"Nous avons décidé aujourd'hui d'aller au cinéma."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie ist eine großzügige Frau.",
+        "fr":"Elle est une femme généreuse."
+    },
+    {
+        "de":"Er hat heute einen wichtigen Termin gehalten.",
+        "fr":"Il a eu une réunion importante aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine wichtige Entscheidung getroffen.",
+        "fr":"J'ai pris une décision importante aujourd'hui."
+    },
+    {
+        "de":"Die Kinder haben heute eine große Party gegeben.",
+        "fr":"Les enfants ont organisé une grande fête aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Die Nachricht war so gut, dass ich mich freute.",
+        "fr":"Le message était si bon que je suis devenu heureux."
+    },
+    {
+        "de":"Sie liebt es, im Sommer unter freiem Himmel zu arbeiten.",
+        "fr":"Elle aime travailler à l'air libre en été."
+    },
+    {
+        "de":"Er hat heute eine wichtige Präsentation gehalten.",
+        "fr":"Il a tenu une importante présentation aujourd'hui."
+    },
+    {
+        "de":"Die Zeit vergeht schnell, wenn man liest.",
+        "fr":"Le temps passe vite quand on lit."
+    },
+    {
+        "de":"Ich habe heute eine neue Freundin gemacht.",
+        "fr":"J'ai fait une nouvelle amie aujourd'hui."
+    },
+    {
+        "de":"Die Nachbarn haben heute feiern.",
+        "fr":"Les voisins ont célébré aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine wichtige Nachricht erhalten.",
+        "fr":"Il a reçu un message important aujourd'hui."
+    },
+    {
+        "de":"Das Kind hat heute eine neue Schule angefangen.",
+        "fr":"L'enfant a commencé une nouvelle école aujourd'hui."
+    },
+    {
+        "de":"Wir haben uns heute entschieden, einen Film im Kino zu sehen.",
+        "fr":"Nous avons décidé aujourd'hui d'aller au cinéma."
+    },
+    {
+        "de":"Er fragte mich, ob ich bereit sei, zu gehen.",
+        "fr":"Il m'a demandé si j'étais prêt à partir."
+    },
+    {
+        "de":"Das Wetter war heute sehr schön.",
+        "fr":"Il faisait très beau aujourd'hui."
+    },
+    {
+        "de":"Ich habe gestern eine lange E-Mail geschrieben.",
+        "fr":"J'ai écrit un long e-mail hier soir."
+    },
+    {
+        "de":"Sie liebt es, am Strand zu spazieren zu gehen.",
+        "fr":"Elle aime se balader sur la plage."
+    },
+    {
+        "de":"Das Kind weinte ständig.",
+        "fr":"L'enfant pleurait constamment."
+    },
+    {
+        "de":"Ich habe mich entschieden, einen neuen Job zu suchen.",
+        "fr":"Je me suis décidé à chercher un nouvel emploi."
+    },
+    {
+        "de":"Sie hat mich gestern angerufen und angerufen.",
+        "fr":"Elle m'a appelé hier soir et hier soir."
+    },
+    {
+        "de":"Das Essen schmeckte sehr gut.",
+        "fr":"Le repas avait très bon goût."
+    },
+    {
+        "de":"Er hat eine tolle Geschichte erzählt.",
+        "fr":"Il racontait une histoire géniale."
+    },
+    {
+        "de":"Wir treffen uns morgen um zehn Uhr.",
+        "fr":"Nous nous retrouverons demain à dix heures."
+    },
+    {
+        "de":"Es gibt viele Möglichkeiten, um das Problem zu lösen.",
+        "fr":"Il y a beaucoup de façons de résoudre ce problème."
+    },
+    {
+        "de":"Sie hat mich gebeten, sie zu begleiten.",
+        "fr":"Elle m'a demandé de l'accompagner."
+    },
+    {
+        "de":"Das Buch ist sehr interessant.",
+        "fr":"Le livre est très intéressant."
+    },
+    {
+        "de":"Er hat versprochen, mich bald zu sehen.",
+        "fr":"Il m'a promis de me revoir bientôt."
+    },
+    {
+        "de":"Die Kinder spielen im Garten.",
+        "fr":"Les enfants jouent dans le jardin."
+    },
+    {
+        "de":"Es regnet heutzutage.",
+        "fr":"Il pleut aujourd'hui."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Der Film war sehr unterhaltsam.",
+        "fr":"Le film était très amusant."
+    },
+    {
+        "de":"Wir haben letzte Woche ins Kino gegangen.",
+        "fr":"Nous sommes allés au cinéma la semaine dernière."
+    },
+    {
+        "de":"Ich habe Hunger, ich esse gerne Pizza.",
+        "fr":"J'ai faim, j'aime bien la pizza."
+    },
+    {
+        "de":"Sie hat einen neuen Job gefunden.",
+        "fr":"Elle a trouvé un nouvel emploi."
+    },
+    {
+        "de":"Er ist sehr intelligent und freundlich.",
+        "fr":"Il est très intelligent et aimable."
+    },
+    {
+        "de":"Wir haben gestern einen schönen Sonnenaufgang gesehen.",
+        "fr":"Nous avons vu un magnifique lever de soleil hier soir."
+    },
+    {
+        "de":"Die Party war sehr aufregend.",
+        "fr":"La fête était très énervante."
+    },
+    {
+        "de":"Sie hat mich gebeten, ihr zu helfen.",
+        "fr":"Elle m'a demandé de l'aider."
+    },
+    {
+        "de":"Ich habe gestern eine tolle Zeit mit meinen Freunden.",
+        "fr":"J'ai passé une excellente soirée avec mes amis."
+    },
+    {
+        "de":"Das Essen war lecker.",
+        "fr":"Le repas était délicieux."
+    },
+    {
+        "de":"Er hat mich heute morgen angerufen.",
+        "fr":"Il m'a appelé ce matin."
+    },
+    {
+        "de":"Die Katze schläft auf dem Sofa.",
+        "fr":"Le chat dort sur le canapé."
+    },
+    {
+        "de":"Sie hat mir ein Buch gegeben.",
+        "fr":"Elle m'a donné un livre."
+    },
+    {
+        "de":"Ich werde morgen früh ins Büro gehen.",
+        "fr":"Je vais au bureau demain matin."
+    },
+    {
+        "de":"Er hat mich gestern erzählt, dass er heiraten wird.",
+        "fr":"Il m'a dit hier soir qu'il allait se marier."
+    },
+    {
+        "de":"Das Auto war sehr teuer.",
+        "fr":"La voiture était très cher."
+    },
+    {
+        "de":"Sie fährt gerne mit dem Auto.",
+        "fr":"Elle aime bien conduire."
+    },
+    {
+        "de":"Der Himmel war klar und blau.",
+        "fr":"Le ciel était clair et bleu."
+    },
+    {
+        "de":"Wir haben uns in der Stadt getroffen.",
+        "fr":"Nous nous sommes rencontrés en ville."
+    },
+    {
+        "de":"Sie ist sehr leid, dass sie nicht kommen kann.",
+        "fr":"Elle est très peinée de ne pas pouvoir venir."
+    },
+    {
+        "de":"Er hat ein Geschenk für mich gekauft.",
+        "fr":"Il m'a acheté un cadeau."
+    },
+    {
+        "de":"Das Essen schmeckt lecker.",
+        "fr":"Le repas a un bon goût."
+    },
+    {
+        "de":"Sie hat mir erzählt, dass sie heute arbeiten muss.",
+        "fr":"Elle m'a dit qu'elle doit travailler aujourd'hui."
+    },
+    {
+        "de":"Er hat das Buch schon gelesen.",
+        "fr":"Il a déjà lu le livre."
+    },
+    {
+        "de":"Die Blumen sind sehr schön.",
+        "fr":"Les fleurs sont très belles."
+    },
+    {
+        "de":"Ich habe keine Ahnung, was passiert ist.",
+        "fr":"Je n'ai aucune idée de ce qui s'est passé."
+    },
+    {
+        "de":"Sie hat mich gebeten, ihr zu helfen.",
+        "fr":"Elle m'a demandé de l'aider."
+    },
+    {
+        "de":"Der Himmel war bewölkt.",
+        "fr":"Le ciel était couvert."
+    },
+    {
+        "de":"Sie war sehr glücklich, als sie es hörte.",
+        "fr":"Elle était très heureuse quand elle l'a entendu."
+    },
+    {
+        "de":"Er hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Il a décidé de ne plus travailler."
+    },
+    {
+        "de":"Die Musik war sehr laut.",
+        "fr":"La musique était très forte."
+    },
+    {
+        "de":"Er hat heute Nachmittag angerufen.",
+        "fr":"Il m'a appelé cet après-midi."
+    },
+    {
+        "de":"Sie hat eine tolle Idee gehabt.",
+        "fr":"Elle avait une excellente idée."
+    },
+    {
+        "de":"Ich habe heute morgen einen Termin.",
+        "fr":"J'ai rendez-vous ce matin."
+    },
+    {
+        "de":"Der Film war sehr lang.",
+        "fr":"Le film était très long."
+    },
+    {
+        "de":"Sie hat heute Nachmittag angerufen.",
+        "fr":"Elle m'a appelé cet après-midi."
+    },
+    {
+        "de":"Er hat mir eine Nachricht geschickt.",
+        "fr":"Il m'a envoyé un message."
+    },
+    {
+        "de":"Ich habe gestern einen neuen Computer gekauft.",
+        "fr":"J'ai acheté un nouvel ordinateur hier soir."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Der Regen war sehr stark.",
+        "fr":"La pluie était très forte."
+    },
+    {
+        "de":"Wir haben uns gestern angesehen.",
+        "fr":"Nous nous sommes regardés hier soir."
+    },
+    {
+        "de":"Er hat mich gebeten, ihm zu helfen.",
+        "fr":"Il m'a demandé de l'aider."
+    },
+    {
+        "de":"Das Essen schmeckt lecker.",
+        "fr":"Le repas a un bon goût."
+    },
+    {
+        "de":"Sie hat mich heute morgen angerufen.",
+        "fr":"Elle m'a appelé ce matin."
+    },
+    {
+        "de":"Der Tag war sehr heiß.",
+        "fr":"Il faisait très chaud."
+    },
+    {
+        "de":"Ich habe heute Nachmittag einen Termin.",
+        "fr":"J'ai rendez-vous cet après-midi."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Er hat einen neuen Job bekommen.",
+        "fr":"Il a obtenu un nouvel emploi."
+    },
+    {
+        "de":"Sie hat mich heute Nachmittag angerufen.",
+        "fr":"Elle m'a appelé cet après-midi."
+    },
+    {
+        "de":"Die Blumen sind sehr schön.",
+        "fr":"Les fleurs sont très belles."
+    },
+    {
+        "de":"Er hat mich heute Nachmittag angerufen.",
+        "fr":"Il m'a appelé cet après-midi."
+    },
+    {
+        "de":"Das Wetter war heute sehr schön.",
+        "fr":"Il faisait très beau aujourd'hui."
+    },
+    {
+        "de":"Sie hat mich heute Nachmittag angerufen.",
+        "fr":"Elle m'a appelé cet après-midi."
+    },
+    {
+        "de":"Der Tag war sehr kalt.",
+        "fr":"Il faisait très froid."
+    },
+    {
+        "de":"Er hat eine tolle Geschichte erzählt.",
+        "fr":"Il racontait une histoire géniale."
+    },
+    {
+        "de":"Ich habe heute Nachmittag einen Termin.",
+        "fr":"J'ai rendez-vous cet après-midi."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Er hat mich heute Nachmittag angerufen.",
+        "fr":"Il m'a appelé cet après-midi."
+    },
+    {
+        "de":"Das Essen schmeckt lecker.",
+        "fr":"Le repas a un bon goût."
+    },
+    {
+        "de":"Sie hat mich heute Nachmittag angerufen.",
+        "fr":"Elle m'a appelé cet après-midi."
+    },
+    {
+        "de":"Der Film war sehr aufregend.",
+        "fr":"Le film était très stimulant."
+    },
+    {
+        "de":"Ich habe heute Nachmittag einen Termin.",
+        "fr":"J'ai rendez-vous cet après-midi."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Er hat mich heute Nachmittag angerufen.",
+        "fr":"Il m'a appelé cet après-midi."
+    },
+    {
+        "de":"Die Party war sehr aufregend.",
+        "fr":"La fête était très énervante."
+    },
+    {
+        "de":"Ich habe heute Nachmittag einen Termin.",
+        "fr":"J'ai rendez-vous cet après-midi."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Er hat mich heute Nachmittag angerufen.",
+        "fr":"Il m'a appelé cet après-midi."
+    },
+    {
+        "de":"Das Essen schmeckt lecker.",
+        "fr":"Le repas a un bon goût."
+    },
+    {
+        "de":"Ich habe heute Nachmittag einen Termin.",
+        "fr":"J'ai rendez-vous cet après-midi."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Er hat mich heute Nachmittag angerufen.",
+        "fr":"Il m'a appelé cet après-midi."
+    },
+    {
+        "de":"Das Essen schmeckt lecker.",
+        "fr":"Le repas a un bon goût."
+    },
+    {
+        "de":"Ich habe heute Nachmittag einen Termin.",
+        "fr":"J'ai rendez-vous cet après-midi."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Er hat mich heute Nachmittag angerufen.",
+        "fr":"Il m'a appelé cet après-midi."
+    },
+    {
+        "de":"Das Essen schmeckt lecker.",
+        "fr":"Le repas a un bon goût."
+    },
+    {
+        "de":"Ich habe heute Nachmittag einen Termin.",
+        "fr":"J'ai rendez-vous cet après-midi."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Er hat mich heute Nachmittag angerufen.",
+        "fr":"Il m'a appelé cet après-midi."
+    },
+    {
+        "de":"Das Essen schmeckt lecker.",
+        "fr":"Le repas a un bon goût."
+    },
+    {
+        "de":"Ich habe heute Nachmittag einen Termin.",
+        "fr":"J'ai rendez-vous cet après-midi."
+    },
+    {
+        "de":"Sie hat sich entschieden, nicht mehr zu arbeiten.",
+        "fr":"Elle a décidé de ne plus travailler."
+    },
+    {
+        "de":"Es war ein schöner Tag, als wir ins Tal zogen, und die Sonne strahlte hell.",
+        "fr":"Il faisait beau lorsque nous sommes descendus dans la vallée, et le soleil brillait intensément."
+    },
+    {
+        "de":"Die Kinder lachten laut und spielten mit den Ballons am Strand.",
+        "fr":"Les enfants riaient fort et jouaient avec les ballons sur la plage."
+    },
+    {
+        "de":"Ich habe gestern Abend bei meinen Eltern gegessen und über das Wetter geredet.",
+        "fr":"J'ai dîné chez mes parents hier soir et parlé du temps."
+    },
+    {
+        "de":"Seine Vorträge waren immer sehr unterhaltsam und informativ.",
+        "fr":"Ses conférences étaient toujours très amusantes et informatives."
+    },
+    {
+        "de":"Wir müssen morgen früh aufstehen, um den Flug zu erwischen.",
+        "fr":"Nous devons nous lever tôt demain pour prendre l'avion."
+    },
+    {
+        "de":"Das Museum hat eine große Sammlung von antiken Gemälden.",
+        "fr":"Le musée possède une grande collection de tableaux anciens."
+    },
+    {
+        "de":"Die Katze schlief auf dem Fensterbrett und schaute draußen.",
+        "fr":"Le chat dormait sur le rebord de la fenêtre et regardait dehors."
+    },
+    {
+        "de":"Er hat mir ein Buch geschenkt, das ich schon lange wollte.",
+        "fr":"Il m'a offert un livre dont j'avais tant envie depuis longtemps."
+    },
+    {
+        "de":"Die Tafel war mit einer Vielzahl von Gerichten übersät.",
+        "fr":"Le buffet était couvert d'une multitude de plats."
+    },
+    {
+        "de":"Sie war so schön, dass alle sie anblickten.",
+        "fr":"Elle était si belle que tout le monde la regardait."
+    },
+    {
+        "de":"Das Kind sang ein Lied und tanzt rumherum.",
+        "fr":"L'enfant chantait une chanson et dansait de-ci de-là."
+    },
+    {
+        "de":"Wir haben uns über die Kinoerlebnisse gestritten.",
+        "fr":"Nous avons discuté de nos expériences au cinéma."
+    },
+    {
+        "de":"Der Brief war von ihm selbst verfasst.",
+        "fr":"La lettre était écrite par lui-même."
+    },
+    {
+        "de":"Das Wetter war so schlecht, dass wir ins Restaurant gegangen sind.",
+        "fr":"Le temps était si mauvais qu'on est allé au restaurant."
+    },
+    {
+        "de":"Sie liebte es, unter den Bäumen zu lesen.",
+        "fr":"Elle adorait lire sous les arbres."
+    },
+    {
+        "de":"Er hatte eine lange Route zurückgelegt, bevor er endlich angekommen war.",
+        "fr":"Il avait parcouru une longue distance avant de finalement arriver."
+    },
+    {
+        "de":"Die Frau im Supermarkt bot mir frische Obstsorten an.",
+        "fr":"La femme du supermarché m'a proposé des variétés de fruits frais."
+    },
+    {
+        "de":"Der Film war so gut, dass ich ihn zweimal angesehen habe.",
+        "fr":"Le film était si bon que je l'ai vu deux fois."
+    },
+    {
+        "de":"Es gab keinen Grund, sich Sorgen zu machen.",
+        "fr":"Il n'y avait aucune raison de s'inquiéter."
+    },
+    {
+        "de":"Sie hat mir bei meinen Hausaufgaben geholfen.",
+        "fr":"Elle m'a aidé avec mes devoirs."
+    },
+    {
+        "de":"Sein Haus stand auf einem Hügel mit wundervollem Blick.",
+        "fr":"Sa maison se trouvait sur une colline offrant une vue magnifique."
+    },
+    {
+        "de":"Ich habe die Prüfung bestanden und bin sehr froh darüber.",
+        "fr":"J'ai réussi l'examen et j'en suis très content."
+    },
+    {
+        "de":"Der Professor erklärte die Komplexitäten der Mathematik.",
+        "fr":"Le professeur a expliqué les complexités des mathématiques."
+    },
+    {
+        "de":"Wir haben ein Spaziergang in der Park unternehmen.",
+        "fr":"Nous avons fait une promenade dans le parc."
+    },
+    {
+        "de":"Die Erlebnisse des Lebens sind so faszinierend.",
+        "fr":"Les expériences de la vie sont tellement fascinantes."
+    },
+    {
+        "de":"Sie liebte es, durch die Straßen des Ortes zu wandern.",
+        "fr":"Elle adorait se promener dans les rues du village."
+    },
+    {
+        "de":"Der Regen fiel in einer dichten Mauer.",
+        "fr":"La pluie tombait en un mur dense."
+    },
+    {
+        "de":"Er hat das Auto repariert und es war wieder fahrenfähig.",
+        "fr":"Il a réparé la voiture et elle était de nouveau utilisable."
+    },
+    {
+        "de":"Die Leute schauten mich an, als wäre ich verrückt geworden.",
+        "fr":"Les gens me regardaient comme si je devenais fou."
+    },
+    {
+        "de":"Es gibt viele verschiedene Sorten von Kaffee in der Cafeteria.",
+        "fr":"Il y a beaucoup de variétés de café dans la cafétéria."
+    },
+    {
+        "de":"Sie hat mir ein Geschenk gegeben, als ich Geburtstag hatte.",
+        "fr":"Elle m'a offert un cadeau pour mon anniversaire."
+    },
+    {
+        "de":"Es war schon spät, als ich ins Bett ging.",
+        "fr":"Il était déjà tard lorsque je suis allé me coucher."
+    },
+    {
+        "de":"Der Hund bellte laut, als er die Postbote sah.",
+        "fr":"Le chien aboyait fort en voyant le facteur."
+    },
+    {
+        "de":"Sie sprach mit ihm über ihre Pläne für die Zukunft.",
+        "fr":"Elle a parlé avec lui de ses projets pour l'avenir."
+    },
+    {
+        "de":"Das Essen war köstlich und ich habe mich satt gegessen.",
+        "fr":"Le repas était délicieux et j'ai bien mangé."
+    },
+    {
+        "de":"Die Kinder liebten es, auf dem See zu schwimmen.",
+        "fr":"Les enfants adoraient nager dans la mer."
+    },
+    {
+        "de":"Der Park war voller Menschen, die Fitnessmächer machten.",
+        "fr":"Le parc était plein de gens qui faisaient de l'exercice."
+    },
+    {
+        "de":"Sie hat ihm eine Nachricht geschickt, aber er hat sie nicht geantwortet.",
+        "fr":"Elle lui a envoyé un message, mais il ne l'a pas répondu."
+    },
+    {
+        "de":"Das Konzert war so toll, dass ich es zweimal besucht habe.",
+        "fr":"Le concert était tellement génial que j'y suis allé deux fois."
+    },
+    {
+        "de":"Sie hat sich einen neuen Job angenommen und ist sehr glücklich.",
+        "fr":"Elle a pris un nouveau poste et elle est très heureuse."
+    },
+    {
+        "de":"Er spielt seit Jahren Fußball für sein Verein.",
+        "fr":"Il joue depuis des années au football pour son club."
+    },
+    {
+        "de":"Die Brücke über dem Fluss war in Schutt und Asche.",
+        "fr":"Le pont sur la rivière était en ruines."
+    },
+    {
+        "de":"Das Essen war so schlecht, dass ich es nicht mehr gegessen habe.",
+        "fr":"Le repas était tellement mauvais que je n'en ai plus mangé."
+    },
+    {
+        "de":"Sie hat mir erzählt von ihrer Reise durch Europa.",
+        "fr":"Elle m'a raconté son voyage en Europe."
+    },
+    {
+        "de":"Der Himmel war voller Sterne und der Mond schien hell.",
+        "fr":"Le ciel était rempli d'étoiles et la lune brillait."
+    },
+    {
+        "de":"Wir haben uns in einer kleinen Kneipe getroffen.",
+        "fr":"Nous nous sommes rencontrés dans une petite taverne."
+    },
+    {
+        "de":"Er hat sich mit dem Auto in die Stadt gefahren.",
+        "fr":"Il est parti en voiture en ville."
+    },
+    {
+        "de":"Die Kinder schrien laut und lachten im Garten.",
+        "fr":"Les enfants criaient fort et riaient dans le jardin."
+    },
+    {
+        "de":"Sie hat mir ein Buch über Geschichte geschenkt.",
+        "fr":"Elle m'a offert un livre d'histoire."
+    },
+    {
+        "de":"Das Auto war kaputt und musste ins Werkstatt gebracht werden.",
+        "fr":"La voiture était défectueuse et devait être emmenée dans l'atelier."
+    },
+    {
+        "de":"Ich habe die Karte studiert, bevor wir losgezogen sind.",
+        "fr":"J'ai étudié la carte avant de partir."
+    },
+    {
+        "de":"Sie hat sich mit ihren Freunden über ihre Lieblingsserie unterhalten.",
+        "fr":"Elle s'est entretenue avec ses amies de sa série préférée."
+    },
+    {
+        "de":"Die Kinder haben die ganze Nacht nicht aufgehört, zu spielen.",
+        "fr":"Les enfants n'ont cessé de jouer toute la nuit."
+    },
+    {
+        "de":"Der Himmel war voller Wolken und es regnete la ganze Zeit.",
+        "fr":"Le ciel était rempli de nuages et il pleuvait tout le temps."
+    },
+    {
+        "de":"Sie hat einen neuen Computer gekauft und ist sehr zufrieden damit.",
+        "fr":"Elle a acheté un nouvel ordinateur et elle en est très satisfaite."
+    },
+    {
+        "de":"Er hat sich entschieden, den Job zu wechseln.",
+        "fr":"Il a décidé de changer de travail."
+    },
+    {
+        "de":"Das Essen war so gut, dass ich noch mehr gegessen hätte essen wollen.",
+        "fr":"Le repas était si bon que j'aurais voulu en manger encore plus."
+    },
+    {
+        "de":"Sie hat mir eine Geschichte über ihr Leben erzählt.",
+        "fr":"Elle m'a raconté une histoire sur sa vie."
+    },
+    {
+        "de":"Die Kinder haben sich auf dem See gebadet.",
+        "fr":"Les enfants se sont baignés dans la mer."
+    },
+    {
+        "de":"Er hat sich die ganze Nacht daran gearbeitet, die Hausaufgaben zu machen.",
+        "fr":"Il a travaillé toute la nuit à ses devoirs."
+    },
+    {
+        "de":"Das Kind hat einen neuen Freund gemacht und ist sehr glücklich.",
+        "fr":"L'enfant a fait un nouveau copain et est très heureux."
+    },
+    {
+        "de":"Die Schule war geschlossen, deshalb haben wir die ganze Zeit im Park verbracht.",
+        "fr":"L'école était fermée, nous avons donc passé tout le temps au parc."
+    },
+    {
+        "de":"Er hat einen neuen Job gefunden und ist sehr zufrieden damit.",
+        "fr":"Il a trouvé un nouveau travail et il en est très satisfait."
+    },
+    {
+        "de":"Sie hat sich in den Bus gestaut.",
+        "fr":"Elle est entrée dans le bus."
+    },
+    {
+        "de":"Das Restaurant war sehr voll, und wir mussten lange warten.",
+        "fr":"Le restaurant était très encombré et nous avons dû attendre longtemps."
+    },
+    {
+        "de":"Er hat sich in der Bibliothek mit Büchern über Geschichte beschäftigt.",
+        "fr":"Il s'est occupé de livres d'histoire dans la bibliothèque."
+    },
+    {
+        "de":"Das Kind hat in der Schule einen Praktikum gemacht.",
+        "fr":"L'enfant a fait un stage à l'école."
+    },
+    {
+        "de":"Sie hat sich mit ihren Freunden in der Cafeteria getroffen.",
+        "fr":"Elle s'est retrouvée avec ses amies dans la cafétéria."
+    },
+    {
+        "de":"Die Nachbarn haben ein großes Fest gefeiert.",
+        "fr":"Les voisins ont organisé une grande fête."
+    },
+    {
+        "de":"Er hat sich die ganze Nacht daran gearbeitet, das Projekt zu beenden.",
+        "fr":"Il a travaillé toute la nuit pour terminer le projet."
+    },
+    {
+        "de":"Die Katze hat sich auf dem Balkon gesetzt und hat die Nachbarschaft angeblickt.",
+        "fr":"Le chat s'est installé sur le balcon et regardait la voisinerie."
+    },
+    {
+        "de":"Sie hat sich mit ihrem Freund über die University unterhalten.",
+        "fr":"Elle s'est entretenue avec son copain de son université."
+    },
+    {
+        "de":"Das Kind hat sich mit seinen Freunden im Park gespielt.",
+        "fr":"L'enfant a joué avec ses amis dans le parc."
+    },
+    {
+        "de":"Die Katze hat sich auf dem Sofa nieder gelassen und sich entspannt.",
+        "fr":"Le chat s'est allongé sur le canapé et s'est détendu."
+    },
+    {
+        "de":"Er hat sich um die Haushaltsarbeiten bemüht, während sie gearbeitet hat.",
+        "fr":"Il s'est occupé des tâches ménagères pendant qu'elle travaillait."
+    },
+    {
+        "de":"Die Wohnung war in einem Chaos und musste gereinigt werden.",
+        "fr":"L'appartement était dans un désordre et devait être nettoyé."
+    },
+    {
+        "de":"Sie hat sich mit ihren Freunden über die neuesten Filme geredet.",
+        "fr":"Elle s'est entretenue avec ses amies des derniers films."
+    },
+    {
+        "de":"Er hat sich mit dem Lehrer über die Hausaufgaben unterhalten.",
+        "fr":"Il s'est entretenue avec le professeur de ses devoirs."
+    },
+    {
+        "de":"Das Kind hat sich auf dem Rauschspielladen gespielt.",
+        "fr":"L'enfant jouait sur le manège."
+    },
+    {
+        "de":"Die Katze hat sich auf dem Balkon nieder gelassen und hat die Nachbarschaft angeblickt.",
+        "fr":"Le chat s'est installé sur le balcon et regardait la voisinerie."
+    },
+    {
+        "de":"Sie hat sich mit ihren Freunden über die neuesten Bücher unterhalten.",
+        "fr":"Elle s'est entretenue avec ses amies des derniers livres."
+    },
+    {
+        "de":"Er hat sich mit dem Auto aufs Wochenende ins Gebirge gefahren.",
+        "fr":"Il est parti en voiture dans les montagnes le week-end."
+    },
+    {
+        "de":"Das Kind hat sich mit seinen Freunden im Park gespielt.",
+        "fr":"L'enfant jouait avec ses amis dans le parc."
+    },
+    {
+        "de":"Die Katze hat sich im Schatten des Baumes eingeschläumt.",
+        "fr":"Le chat s'est endormi à l'ombre de l'arbre."
+    },
+    {
+        "de":"Sie hat sich mit ihrem Freund über die neuesten Musikstücke unterhalten.",
+        "fr":"Elle s'est entretenue avec son copain des dernières chansons."
+    },
+    {
+        "de":"Er hat sich mit dem Bus in die Stadt gefahren.",
+        "fr":"Il est parti en bus en ville."
+    },
+    {
+        "de":"Das Kind hat sich mit seinen Freunden im Spaßhaus gespielt.",
+        "fr":"L'enfant jouait avec ses amis dans l'attraction."
+    },
+    {
+        "de":"Die Katze hat sich im Garten auf dem Rasen nieder gelassen.",
+        "fr":"Le chat s'est endormi dans le jardin sur la pelouse."
+    },
+    {
+        "de":"Sie hat sich mit ihrem Freund über die neuesten Fotos unterhalten.",
+        "fr":"Elle s'est entretenue avec son copain des dernières photos."
+    },
+    {
+        "de":"Er hat sich mit dem Auto in die Innenstadt gefahren.",
+        "fr":"Il est parti en voiture en centre-ville."
+    },
+    {
+        "de":"Das Kind hat sich mit seinen Freunden im Schwimmbecken getrieben.",
+        "fr":"L'enfant faisait la natation avec ses amis dans la piscine."
+    },
+    {
+        "de":"Die Katze hat sich im Garten unter einem Baum nieder gelassen.",
+        "fr":"Le chat s'est endormi dans le jardin sous un arbre."
+    },
+    {
+        "de":"Sie hat sich mit ihrem Freund über die neuesten Reisen unterhalten.",
+        "fr":"Elle s'est entretenue avec son copain de ses derniers voyages."
+    },
+    {
+        "de":"Er hat sich mit dem Auto auf den See gefahren.",
+        "fr":"Il est parti en voiture au lac."
+    },
+    {
+        "de":"Das Kind hat sich mit seinen Freunden im Schwimmbad getrieben.",
+        "fr":"L'enfant faisait la natation avec ses amis dans la piscine."
+    },
+    {
+        "de":"Die Katze hat sich im Garten auf der Bank nieder gelassen.",
+        "fr":"Le chat s'est assis sur le banc dans le jardin."
+    },
+    {
+        "de":"Sie hat sich mit ihrem Freund über die neuesten Filmen unterhalten.",
+        "fr":"Elle s'est entretenue avec son copain des derniers films."
+    },
+    {
+        "de":"Er hat sich mit dem Auto auf den Strand gefahren.",
+        "fr":"Il est parti en voiture sur la plage."
+    },
+    {
+        "de":"Das Kind hat sich mit seinen Freunden im Schwimmbad gespielt.",
+        "fr":"L'enfant jouait avec ses amis dans la piscine."
+    },
+    {
+        "de":"Die Katze hat sich im Garten auf dem Rasen gestreckt.",
+        "fr":"Le chat s'est allongé sur la pelouse dans le jardin."
+    },
+    {
+        "de":"Wir treffen uns am Wochenende im Park zu einem Picknick.",
+        "fr":"Nous nous retrouvons le weekend au parc pour un pique-nique."
+    },
+    {
+        "de":"Das Wetter ist heute wunderschön, perfekt für eine Spazierfahrt.",
+        "fr":"Le temps est magnifique aujourd'hui, idéal pour une promenade."
+    },
+    {
+        "de":"Ich liebe es, Kaffee mit meinem Frühstück zu trinken.",
+        "fr":"J'aime boire du café avec mon petit-déjeuner."
+    },
+    {
+        "de":"Dieses Buch ist einfach unerwartet spannend.",
+        "fr":"Ce livre est tout simplement inattendu et captivant."
+    },
+    {
+        "de":"Kann ich bitte mal nach draußen gehen?",
+        "fr":"Pourrais-je aller dehors s'il te plaît ?"
+    },
+    {
+        "de":"Er erzählte mir eine Geschichte, die mich weinte.",
+        "fr":"Il m'a raconté une histoire qui m'a fait pleurer."
+    },
+    {
+        "de":"Sie hat einen wunderbaren neuen Job gefunden.",
+        "fr":"Elle a trouvé un travail merveilleux."
+    },
+    {
+        "de":"Die Reise war erfüllt von Abenteuern.",
+        "fr":"Le voyage était rempli d'aventures."
+    },
+    {
+        "de":"Ich bin sehr stolz auf meine Tochter.",
+        "fr":"Je suis très fier de ma fille."
+    },
+    {
+        "de":"Das Essen hier ist wirklich köstlich.",
+        "fr":"La nourriture ici est vraiment délicieuse."
+    },
+    {
+        "de":"Er ist ein sehr talentierter Koch.",
+        "fr":"Il est un cuisinier très talentueux."
+    },
+    {
+        "de":"Die Musik in diesem Restaurant ist wirklich wunderschön.",
+        "fr":"La musique dans ce restaurant est vraiment magnifique."
+    },
+    {
+        "de":"Ich habe heute ein neues Lied gelernt.",
+        "fr":"J'ai appris une nouvelle chanson aujourd'hui."
+    },
+    {
+        "de":"Der Tag ist so schön, dass wir einen Spaziergang machen können.",
+        "fr":"La journée est si belle que nous pouvons faire une promenade."
+    },
+    {
+        "de":"Sie hat mich heute überrascht mit einem Geschenk.",
+        "fr":"Elle m'a surprise aujourd'hui avec un cadeau."
+    },
+    {
+        "de":"Die Kinder spielen im Park.",
+        "fr":"Les enfants jouent au parc."
+    },
+    {
+        "de":"Es ist wichtig, immer über seine Worte nachzudenken.",
+        "fr":"Il est important de toujours réfléchir à ce qu'on dit."
+    },
+    {
+        "de":"Ich habe gestern ein altes Buch im Bibliotheksaufsatz gefunden.",
+        "fr":"Hierter, j'ai trouvé un vieux livre dans la réserve de la bibliothèque."
+    },
+    {
+        "de":"Die Leute hier sind sehr freundlich.",
+        "fr":"Les gens ici sont très sympas."
+    },
+    {
+        "de":"Ich habe heute eine tolle Entdeckung gemacht.",
+        "fr":"J'ai eu une découverte géniale aujourd'hui."
+    },
+    {
+        "de":"Er hat mich heute zum Kino eingeladen.",
+        "fr":"Il m'a invité au cinéma aujourd'hui."
+    },
+    {
+        "de":"Das Essen hier ist so knusprig.",
+        "fr":"La nourriture ici est si croustillante."
+    },
+    {
+        "de":"Die Geschichte endete auf eine überraschende Weise.",
+        "fr":"L'histoire s'est terminée de manière inattendue."
+    },
+    {
+        "de":"Ich habe heute einen neuen Freund gemacht.",
+        "fr":"J'ai fait un nouveau ami aujourd'hui."
+    },
+    {
+        "de":"Sie freut sich, dass ich gekommen bin.",
+        "fr":"Elle est contente que je sois venu."
+    },
+    {
+        "de":"Es war ein schöner Morgen, perfekt für einen Spaziergang.",
+        "fr":"C'était un beau matin, parfait pour une promenade."
+    },
+    {
+        "de":"Er hat eine reizende Stimme, die mich immer anzieht.",
+        "fr":"Il a une voix envoûtante qui me tente constamment."
+    },
+    {
+        "de":"Die Kinder haben heute viel Spaß gemacht.",
+        "fr":"Les enfants ont eu beaucoup de plaisir aujourd'hui."
+    },
+    {
+        "de":"Es war ein langer, regneriger Tag.",
+        "fr":"C'était une longue journée pluvieuse."
+    },
+    {
+        "de":"Ich habe heute eine tolle Rede gehalten.",
+        "fr":"J'ai fait une excellente présentation aujourd'hui."
+    },
+    {
+        "de":"Die Natur hier ist wunderschön, voller grüner Pflanzen.",
+        "fr":"La nature ici est magnifique, pleine de vertes plantes."
+    },
+    {
+        "de":"Er hat eine tolle Nachricht erhalten.",
+        "fr":"Il a reçu une excellente nouvelle."
+    },
+    {
+        "de":"Ich freue mich, dass wir zusammen sind.",
+        "fr":"Je suis contente que nous soyons ensemble."
+    },
+    {
+        "de":"Die neue Wohnung ist sehr schön eingerichtet.",
+        "fr":"La nouvelle maison est très joliment meublée."
+    },
+    {
+        "de":"Es ist wichtig, sich immer an die Zeit zu halten.",
+        "fr":"Il est important de toujours respecter l'heure."
+    },
+    {
+        "de":"Ich habe heute einen Film gesehen, der mich sehr berührt hat.",
+        "fr":"J'ai vu un film aujourd'hui qui m'a beaucoup touché."
+    },
+    {
+        "de":"Die Leute hier sind sehr höflich.",
+        "fr":"Les gens ici sont très polis."
+    },
+    {
+        "de":"Die Musik hier ist wunderschön, es ist eine wundervolle Atmosphäre.",
+        "fr":"La musique ici est magnifique, c'est une atmosphère merveilleuse."
+    },
+    {
+        "de":"Ich habe heute einen neuen Job angefangen.",
+        "fr":"J'ai commencé un nouveau travail aujourd'hui."
+    },
+    {
+        "de":"Es ist wichtig, immer optimistisch zu bleiben.",
+        "fr":"Il est important de rester toujours optimiste."
+    },
+    {
+        "de":"Die Musik in diesem Restaurant ist sehr angenehm.",
+        "fr":"La musique dans ce restaurant est très agréable."
+    },
+    {
+        "de":"Ich habe heute einen wunderschönen Tag.",
+        "fr":"J'ai eu une journée magnifique aujourd'hui."
+    },
+    {
+        "de":"Die Menschen hier sind sehr freundlich und einladend.",
+        "fr":"Les gens ici sont très aimables et accueillants."
+    },
+    {
+        "de":"Es ist wichtig, immer gut auf sich aufzupassen.",
+        "fr":"Il est important de toujours prendre soin de soi."
+    },
+    {
+        "de":"Die Leute hier sind sehr hilfsbereit.",
+        "fr":"Les gens ici sont très généreux."
+    },
+    {
+        "de":"Er hat heute einen schönen Tag.",
+        "fr":"Il a eu une journée agréable aujourd'hui."
+    },
+    {
+        "de":"Ich freue mich, dass ich heute kommen durfte.",
+        "fr":"Je suis contente de pouvoir venir aujourd'hui."
+    },
+    {
+        "de":"Die Musik in diesem Restaurant ist sehr angenehm, es ist eine wundervolle Atmosphäre.",
+        "fr":"La musique dans ce restaurant est très agréable, c'est une atmosphère merveilleuse."
+    },
+    {
+        "de":"Ich habe heute einen wunderschönen Tag.",
+        "fr":"J'ai eu une journée magnifique aujourd'hui."
+    },
+    {
+        "de":"Die Menschen hier sind sehr freundlich und einladend.",
+        "fr":"Les gens ici sont très aimables et accueillants."
+    },
+    {
+        "de":"Es ist wichtig, immer optimistisch zu bleiben.",
+        "fr":"Il est important de rester toujours optimiste."
+    },
+    {
+        "de":"Die Musik hier ist sehr angenehm.",
+        "fr":"La musique ici est très agréable."
+    },
+    {
+        "de":"Ich habe heute einen schönen Tag.",
+        "fr":"J'ai eu une belle journée aujourd'hui."
+    },
+    {
+        "de":"Ich freue mich, dass ich heute kommen durfte.",
+        "fr":"Je suis contente d'être venue aujourd'hui."
+    },
+    {
+        "de":"Es gibt viele schöne Plätze zum Spazieren in der Stadt.",
+        "fr":"Il y a de nombreux beaux endroits pour se promener dans la ville."
+    },
+    {
+        "de":"Er hat heute eine tolle Nachricht erhalten.",
+        "fr":"Il a reçu une excellente nouvelle aujourd'hui."
+    },
+    {
+        "de":"Die Natur hier ist wunderschön, voller grüner Pflanzen.",
+        "fr":"La nature ici est magnifique, pleine de vertes plantes."
+    },
+    {
+        "de":"Ich habe heute eine tolle Rede gehalten.",
+        "fr":"J'ai fait une excellente présentation aujourd'hui."
+    },
+    {
+        "de":"Es war ein langer, regneriger Tag.",
+        "fr":"C'était une journée longue et pluvieuse."
+    },
+    {
+        "de":"Der Tag ist so schön, dass wir einen Spaziergang machen können.",
+        "fr":"La journée est si belle que nous pouvons faire une promenade."
+    },
+    {
+        "de":"Sie freut sich, dass ich gekommen bin.",
+        "fr":"Elle est contente que je sois venu."
+    },
+    {
+        "de":"Die Kinder haben heute viel Spaß gemacht.",
+        "fr":"Les enfants ont eu beaucoup de plaisir aujourd'hui."
+    },
+    {
+        "de":"Es ist wichtig, über seine Worte nachzudenken.",
+        "fr":"Il est important de réfléchir à ce qu'on dit."
+    },
+    {
+        "de":"Ich habe gestern ein altes Buch im Bibliotheksaufsatz gefunden.",
+        "fr":"Je suis tombé sur un vieux livre dans la réserve de la bibliothèque hier."
+    },
+    {
+        "de":"Die Menschen hier sind sehr höflich.",
+        "fr":"Les gens ici sont très polis."
+    },
+    {
+        "de":"Er hat eine reizende Stimme, die mich immer anzieht.",
+        "fr":"Il a une voix envoûtante qui me tente constamment."
+    },
+    {
+        "de":"Die Geschichte endete auf eine überraschende Weise.",
+        "fr":"L'histoire s'est terminée de manière inattendue."
+    },
+    {
+        "de":"Ich habe heute eine tolle Entdeckung gemacht.",
+        "fr":"J'ai fait une découverte géniale aujourd'hui."
+    },
+    {
+        "de":"Er hat mich heute zum Kino eingeladen.",
+        "fr":"Il m'a invité au cinéma aujourd'hui."
+    },
+    {
+        "de":"Das Essen hier ist so knusprig.",
+        "fr":"La nourriture ici est si croustillante."
+    },
+    {
+        "de":"Ich bin sehr stolz auf meine Tochter.",
+        "fr":"Je suis très fier de ma fille."
+    },
+    {
+        "de":"Die Reise war erfüllt von Abenteuern.",
+        "fr":"Le voyage était rempli d'aventures."
+    },
+    {
+        "de":"Sie hat einen wunderbaren neuen Job gefunden.",
+        "fr":"Elle a trouvé un travail merveilleux."
+    },
+    {
+        "de":"Ich liebe es, Kaffee mit meinem Frühstück zu trinken.",
+        "fr":"J'aime boire du café avec mon petit-déjeuner."
+    },
+    {
+        "de":"Dieses Buch ist einfach unerwartet spannend.",
+        "fr":"Ce livre est tout simplement inattendu et captivant."
+    },
+    {
+        "de":"Kann ich bitte mal nach draußen gehen?",
+        "fr":"Pourrais-je aller dehors s'il te plaît ?"
+    },
+    {
+        "de":"Erzähl mir mehr über diese Geschichte.",
+        "fr":"Raconte-moi plus sur cette histoire."
+    },
+    {
+        "de":"Die Tiere im Zoo waren wirklich faszinierend.",
+        "fr":"Les animaux du zoo étaient vraiment fascinants."
+    },
+    {
+        "de":"Sie hat eine wunderschöne neue Wohnung.",
+        "fr":"Elle a une nouvelle maison vraiment magnifique."
+    },
+    {
+        "de":"Ich habe heute neues Schuhe gekauft.",
+        "fr":"J'ai acheté de nouvelles chaussures aujourd'hui."
+    },
+    {
+        "de":"Die Küche ist sehr gut eingerichtet.",
+        "fr":"La cuisine est très bien équipée."
+    },
+    {
+        "de":"Er zubereitet immer le Essen selbst.",
+        "fr":"Il cuisine toujours lui-même."
+    },
+    {
+        "de":"Die Blumen in der Gärtnerei sind sehr schön.",
+        "fr":"Les fleurs dans le jardin sont très belles."
+    },
+    {
+        "de":"Ich habe heute eine tolle Zeit mit meinen Freunden verbracht.",
+        "fr":"J'ai passé une excellente journée avec mes amis aujourd'hui."
+    },
+    {
+        "de":"Die Kinder spielen gerne im Park.",
+        "fr":"Les enfants jouent souvent au parc."
+    },
+    {
+        "de":"Es ist wichtig, immer die Umwelt zu schützen.",
+        "fr":"Il est important de toujours protéger l'environnement."
+    },
+    {
+        "de":"Sie hat heute ein neues Haarfarben ausprobiert.",
+        "fr":"Elle a essayé une nouvelle teinture aujourd'hui."
+    },
+    {
+        "de":"Er hat heute eine tolle Zeit mit seiner Familie verbracht.",
+        "fr":"Il a passé une excellente journée avec sa famille aujourd'hui."
+    },
+    {
+        "de":"Die Leute hier sind sehr freundlich und einladend.",
+        "fr":"Les gens ici sont très aimables et accueillants."
+    },
+    {
+        "de":"Es ist wichtig, immer gut auf sich aufzupassen.",
+        "fr":"Il est important de toujours prendre soin de soi."
+    },
+    {
+        "de":"Ich habe heute einen schönen Tag.",
+        "fr":"J'ai eu une belle journée aujourd'hui."
+    },
+    {
+        "de":"Die Menschen hier sind sehr höflich.",
+        "fr":"Les gens ici sont très polis."
+    },
+    {
+        "de":"Die Musik hier ist wunderschön, es ist eine wundervolle Atmosphäre.",
+        "fr":"La musique ici est magnifique, c'est une atmosphère merveilleuse."
+    },
+    {
+        "de":"Ich habe heute einen neuen Job angefangen.",
+        "fr":"J'ai commencé un nouveau travail aujourd'hui."
+    },
+    {
+        "de":"Es ist wichtig, immer optimistisch zu bleiben.",
+        "fr":"Il est important de rester toujours optimiste."
+    },
+    {
+        "de":"Die Musik in diesem Restaurant ist sehr angenehm.",
+        "fr":"La musique dans ce restaurant est très agréable."
+    },
+    {
+        "de":"Ich freue mich, dass wir zusammen sind.",
+        "fr":"Je suis contente que nous soyons ensemble."
+    },
+    {
+        "de":"Die neue Wohnung ist sehr schön eingerichtet.",
+        "fr":"La nouvelle maison est très joliment meublée."
+    },
+    {
+        "de":"Es ist wichtig, immer gut auf sich aufzupassen.",
+        "fr":"Il est important de toujours prendre soin de soi."
+    },
+    {
+        "de":"Die Menschen hier sind sehr hilfsbereit.",
+        "fr":"Les gens ici sont très généreux."
+    },
+    {
+        "de":"Die Natur hier ist wunderschön, voller grüner Pflanzen.",
+        "fr":"La nature ici est magnifique, pleine de vertes plantes."
+    },
+    {
+        "de":"Ich habe heute eine tolle Rede gehalten.",
+        "fr":"J'ai fait une excellente présentation aujourd'hui."
+    },
+    {
+        "de":"Es war ein langer, regneriger Tag.",
+        "fr":"C'était une longue journée pluvieuse."
+    },
+    {
+        "de":"Ich habe heute einen schönen Tag.",
+        "fr":"J'ai eu une belle journée aujourd'hui."
+    },
+    {
+        "de":"Die Menschen hier sind sehr freundlich und einladend.",
+        "fr":"Les gens ici sont très aimables et accueillants."
+    },
+    {
+        "de":"Sie hat einen wunderbaren neuen Job gefunden.",
+        "fr":"Elle a trouvé un travail merveilleux."
+    },
+    {
+        "de":"Es ist wichtig, immer gute Laune zu haben.",
+        "fr":"Il est important de rester toujours de bonne humeur."
+    },
+    {
+        "de":"Er hat heute eine tolle Nachricht erhalten.",
+        "fr":"Il a reçu une excellente nouvelle aujourd'hui."
+    },
+    {
+        "de":"Ich habe heute eine tolle Zeit mit meinen Freunden verbracht.",
+        "fr":"J'ai passé une excellente journée avec mes amis aujourd'hui."
+    },
+    {
+        "de":"Die Tiere im Zoo waren wirklich faszinierend.",
+        "fr":"Les animaux du zoo étaient vraiment fascinants."
+    },
+    {
+        "de":"Sie hat eine wunderschöne neue Wohnung.",
+        "fr":"Elle a une nouvelle maison vraiment magnifique."
+    },
+    {
+        "de":"Ich habe heute neue Schuhe gekauft.",
+        "fr":"J'ai acheté de nouvelles chaussures aujourd'hui."
+    },
+    {
+        "de":"Die Küche ist sehr gut eingerichtet.",
+        "fr":"La cuisine est très bien équipée."
+    },
+    {
+        "de":"Er zubereitet immer das Essen selbst.",
+        "fr":"Il cuisine toujours lui-même."
+    },
+    {
+        "de":"Die Blumen in der Gärtnerei sind sehr schön.",
+        "fr":"Les fleurs dans le jardin sont très belles."
+    },
+    {
+        "de":"Die Musik hier ist wunderschön, es ist eine wundervolle Atmosphäre.",
+        "fr":"La musique ici est magnifique, c'est une atmosphère merveilleuse."
+    },
+    {
+        "de":"Sie freut sich, dass ich gekommen bin.",
+        "fr":"Elle est contente que je sois venu."
+    },
+    {
+        "de":"Die Kinder spielen gerne im Park.",
+        "fr":"Les enfants jouent souvent au parc."
+    },
+    {
+        "de":"Es ist wichtig, immer die Umwelt zu schützen.",
+        "fr":"Il est important de toujours protéger l'environnement."
+    },
+    {
+        "de":"Er hat heute einen schönen Tag.",
+        "fr":"Il a eu une belle journée aujourd'hui."
+    },
+    {
+        "de":"Ich bin sehr stolz auf meine Tochter.",
+        "fr":"Je suis très fier de ma fille."
+    },
+    {
+        "de":"Die Reise war erfüllt von Abenteuern.",
+        "fr":"Le voyage était rempli d'aventures."
+    },
+    {
+        "de":"Ich habe heute neues Schuhe gekauft.",
+        "fr":"J'ai acheté de nouvelles chaussures aujourd'hui."
+    },
+    {
+        "de":"Die Blumen in der Gärtnerei sind sehr schön.",
+        "fr":"Les fleurs dans le jardin sont très belles."
+    },
+    {
+        "de":"Erzähl mir mehr über diese Geschichte.",
+        "fr":"Raconte-moi plus sur cette histoire."
+    },
+    {
+        "de":"Die Tiere im Zoo waren wirklich faszinierend.",
+        "fr":"Les animaux du zoo étaient vraiment fascinants."
+    },
+    {
+        "de":"Sie hat eine wunderschöne neue Wohnung.",
+        "fr":"Elle a une nouvelle maison vraiment magnifique."
+    },
+    {
+        "de":"Ich habe heute eine tolle Zeit mit meinen Freunden verbracht.",
+        "fr":"J'ai passé une excellente journée avec mes amis aujourd'hui."
+    },
+    {
+        "de":"Es ist wichtig, immer gute Laune zu haben.",
+        "fr":"Il est important de rester toujours de bonne humeur."
+    },
+    {
+        "de":"Er hat heute eine tolle Nachricht erhalten.",
+        "fr":"Il a reçu une excellente nouvelle aujourd'hui."
+    },
+    {
+        "de":"Ich liebe es, fernzusehen, während ich kochesse.",
+        "fr":"J'aime regarder la télévision pendant que je cuisine."
+    },
+    {
+        "de":"Das Essen war sehr lecker, aber das Dessert war übel.",
+        "fr":"Le repas était très délicieux, mais le dessert était terrible."
+    },
+    {
+        "de":"Der Himmel ist heute sehr blau und klar.",
+        "fr":"Le ciel est très bleu et clair aujourd'hui."
+    },
+    {
+        "de":"Wir treffen uns morgen um elf Uhr im Café.",
+        "fr":"Nous nous retrouvons demain à onze heures dans le café."
+    },
+    {
+        "de":"Haben Sie schon die neuen Schuhe ausprobiert?",
+        "fr":"Avez-vous déjà essayé les nouvelles chaussures ?"
+    },
+    {
+        "de":"Ich habe keine Ahnung, wohin er gegangen ist.",
+        "fr":"Je ne sais pas où il est allé."
+    },
+    {
+        "de":"Sie kommt immer zu spät zur Arbeit.",
+        "fr":"Elle arrive toujours en retard au travail."
+    },
+    {
+        "de":"Er ist der beste Koch in der Familie.",
+        "fr":"Il est le meilleur cuisinier de la famille."
+    },
+    {
+        "de":"Die Kinder spielen im Park.",
+        "fr":"Les enfants jouent dans le parc."
+    },
+    {
+        "de":"Die Katze ist müde und schläft auf dem Sofa.",
+        "fr":"Le chat est fatigué et dort sur le canapé."
+    },
+    {
+        "de":"Es regnet sehr stark heute.",
+        "fr":"Il pleut très fort aujourd'hui."
+    },
+    {
+        "de":"Die Lieferung wird heute eintreffen.",
+        "fr":"La livraison arrivera aujourd'hui."
+    },
+    {
+        "de":"Ich habe gestern einen Film im Kino gesehen.",
+        "fr":"J'ai vu un film au cinéma hier."
+    },
+    {
+        "de":"Die Freunde kommen am Wochenende zu Besuch.",
+        "fr":"Les amis viennent nous rendre visite le week-end."
+    },
+    {
+        "de":"Ich muss noch arbeiten, bevor ich anziehen kann.",
+        "fr":"Je dois encore travailler avant de pouvoir me changer."
+    },
+    {
+        "de":"Sie hat mir ein Geschenk gegeben.",
+        "fr":"Elle m'a donné un cadeau."
+    },
+    {
+        "de":"Er ist ein sehr guter Lehrer.",
+        "fr":"Il est un très bon professeur."
+    },
+    {
+        "de":"Die Reise war sehr aufregend.",
+        "fr":"Le voyage était très excitant."
+    },
+    {
+        "de":"Ich habe viel Übung gemacht.",
+        "fr":"J'ai beaucoup exercé."
+    },
+    {
+        "de":"Es gibt viele interessante Bücher im Bibliothek.",
+        "fr":"Il y a beaucoup de livres intéressants dans la bibliothèque."
+    },
+    {
+        "de":"Sie hat einen riesigen Kuchen gebacken.",
+        "fr":"Elle a fait un grand gâteau."
+    },
+    {
+        "de":"Der Tag war so sonnig, dass wir ins Freie gegangen sind.",
+        "fr":"Le jour était si ensoleillé que nous sommes sortis dehors."
+    },
+    {
+        "de":"Er hat uns erzählt eine faszinierende Geschichte.",
+        "fr":"Il nous a raconté une histoire fascinante."
+    },
+    {
+        "de":"Das Essen kostet zu viel Geld.",
+        "fr":"Le repas coûte trop cher."
+    },
+    {
+        "de":"Sie ist so freundlich, dass ich mich wohlfühle.",
+        "fr":"Elle est si gentille que je me sens bien."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Ich habe mich entschieden, französisch zu lernen.",
+        "fr":"Je me suis décidé à apprendre le français."
+    },
+    {
+        "de":"Die Musik war zu laut, wir konnten nicht reden.",
+        "fr":"La musique était trop forte, nous ne pouvions pas parler."
+    },
+    {
+        "de":"Sie hat das Wochenende mit ihren Eltern verbracht.",
+        "fr":"Elle a passé le week-end avec ses parents."
+    },
+    {
+        "de":"Ich habe vergessen, meine Tasche zu packen.",
+        "fr":"J'ai oublié de prendre mon sac."
+    },
+    {
+        "de":"Es freut mich, dass du gekommen bist.",
+        "fr":"Cela me fait plaisir de te savoir venu."
+    },
+    {
+        "de":"Der Tag war so kalt, dass wir ins Haus gegangen sind.",
+        "fr":"Le jour était si froid que nous sommes rentrés à la maison."
+    },
+    {
+        "de":"Sie hat mir ein neues Buch geschenkt.",
+        "fr":"Elle m'a offert un nouveau livre."
+    },
+    {
+        "de":"Er hat einen neuen Job gefunden.",
+        "fr":"Il a trouvé un nouveau travail."
+    },
+    {
+        "de":"Ich habe meine Prüfung bestanden.",
+        "fr":"J'ai réussi mon examen."
+    },
+    {
+        "de":"Die Kinder spielen Fußball im Garten.",
+        "fr":"Les enfants jouent au football dans le jardin."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Der Tag war so schön, dass wir ins Park gelassen sind.",
+        "fr":"Le jour était si beau que nous sommes allés au parc."
+    },
+    {
+        "de":"Sie hat mich erzählt von ihren Reisen.",
+        "fr":"Elle m'a parlé de ses voyages."
+    },
+    {
+        "de":"Ich habe eine neue Zeitschrift bekommen.",
+        "fr":"J'ai reçu une nouvelle revue."
+    },
+    {
+        "de":"Er hat mir einen Tipp gegeben, wo ich leken kann.",
+        "fr":"Il m'a conseillé où je peux manger."
+    },
+    {
+        "de":"Die Mutter kümmert sich um die Kinder.",
+        "fr":"La mère s'occupe des enfants."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Es gibt viele Bücher im Regal.",
+        "fr":"Il y a beaucoup de livres sur l'étagère."
+    },
+    {
+        "de":"Ich habe heute einen ganzen Tag gearbeitet.",
+        "fr":"J'ai travaillé toute la journée aujourd'hui."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Ich habe heute einen ganzen Tag gearbeitet.",
+        "fr":"J'ai travaillé toute la journée aujourd'hui."
+    },
+    {
+        "de":"Die Kinder spielen mit Ballons.",
+        "fr":"Les enfants jouent avec des ballons."
+    },
+    {
+        "de":"Er ist sehr fleißig.",
+        "fr":"Il est très travailleur."
+    },
+    {
+        "de":"Sie hat eine Nachricht erhalten.",
+        "fr":"Elle a reçu un message."
+    },
+    {
+        "de":"Die Katze liebt den Garten.",
+        "fr":"Le chat aime le jardin."
+    },
+    {
+        "de":"Er hat ein Buch gelesen, bevor er ins Bett ging.",
+        "fr":"Il a lu un livre avant d'aller au lit."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat das Essen gegrillt.",
+        "fr":"Il a grillé le repas."
+    },
+    {
+        "de":"Das Restaurant war sehr gut.",
+        "fr":"Le restaurant était très bon."
+    },
+    {
+        "de":"Sie hat eine neue Garderobe gekauft.",
+        "fr":"Elle a acheté une nouvelle garde-robe."
+    },
+    {
+        "de":"Wir haben eine lange Fahrt gemacht.",
+        "fr":"Nous avons fait un long trajet."
+    },
+    {
+        "de":"Er hat einen neuen Job gefunden.",
+        "fr":"Il a trouvé un nouveau travail."
+    },
+    {
+        "de":"Sie hat mir ein neues Buch gegeben.",
+        "fr":"Elle m'a donné un nouveau livre."
+    },
+    {
+        "de":"Ich habe heute eine Prüfung.",
+        "fr":"J'ai un examen aujourd'hui."
+    },
+    {
+        "de":"Er hat eine neue Wohnung gefunden.",
+        "fr":"Il a trouvé une nouvelle maison."
+    },
+    {
+        "de":"Die Kinder haben Geschenke bekommen.",
+        "fr":"Les enfants ont reçu des cadeaux."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Ich habe eine neue Zeitschrift bekommen.",
+        "fr":"J'ai reçu une nouvelle revue."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir sind morgen ins Kino gehen.",
+        "fr":"Nous allons au cinéma demain."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir treffen uns später im Park.",
+        "fr":"Nous nous retrouvons plus tard dans le parc."
+    },
+    {
+        "de":"Der Himmel ist heute sehr blau.",
+        "fr":"Le ciel est très bleu aujourd'hui."
+    },
+    {
+        "de":"Es regnet sehr stark.",
+        "fr":"Il pleut très fort."
+    },
+    {
+        "de":"Ich habe eine neue Garderobe gekauft.",
+        "fr":"J'ai acheté une nouvelle garde-robe."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Die Mutter kümmert sich um die Kinder.",
+        "fr":"La mère s'occupe des enfants."
+    },
+    {
+        "de":"Der Tag war so kalt, dass wir ins Haus gegangen sind.",
+        "fr":"Le jour était si froid que nous sommes rentrés à la maison."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Die Katze liebt den Garten.",
+        "fr":"Le chat aime le jardin."
+    },
+    {
+        "de":"Er hat ein Buch gelesen, bevor er ins Bett ging.",
+        "fr":"Il a lu un livre avant d'aller au lit."
+    },
+    {
+        "de":"Sie hat eine Nachricht erhalten.",
+        "fr":"Elle a reçu un message."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Er hat eine neue Wohnung gefunden.",
+        "fr":"Il a trouvé une nouvelle maison."
+    },
+    {
+        "de":"Die Kinder haben Geschenke bekommen.",
+        "fr":"Les enfants ont reçu des cadeaux."
+    },
+    {
+        "de":"Ich habe heute eine Prüfung.",
+        "fr":"J'ai un examen aujourd'hui."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Die Kinder spielen mit Ballons.",
+        "fr":"Les enfants jouent avec des ballons."
+    },
+    {
+        "de":"Er ist sehr fleißig.",
+        "fr":"Il est très travailleur."
+    },
+    {
+        "de":"Wir haben eine lange Fahrt gemacht.",
+        "fr":"Nous avons fait un long trajet."
+    },
+    {
+        "de":"Sie hat eine neue Garderobe gekauft.",
+        "fr":"Elle a acheté une nouvelle garde-robe."
+    },
+    {
+        "de":"Das Restaurant war sehr gut.",
+        "fr":"Le restaurant était très bon."
+    },
+    {
+        "de":"Sie hat ein neues Buch gegeben.",
+        "fr":"Elle m'a donné un nouveau livre."
+    },
+    {
+        "de":"Er hat einen neuen Job gefunden.",
+        "fr":"Il a trouvé un nouveau travail."
+    },
+    {
+        "de":"Er hat die ganze Nacht gearbeitet.",
+        "fr":"Il a travaillé toute la nuit."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir haben ein Date am Wochenende.",
+        "fr":"Nous avons une rencontre le week-end."
+    },
+    {
+        "de":"Der Tag war so schön, dass wir ins Park gegangen sind.",
+        "fr":"Le jour était si beau que nous sommes allés au parc."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Es gibt viele interessante Bücher im Bibliothek.",
+        "fr":"Il y a beaucoup de livres intéressants dans la bibliothèque."
+    },
+    {
+        "de":"Ich habe eine neue Zeitschrift bekommen.",
+        "fr":"J'ai reçu une nouvelle revue."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir fahren bald nach Paris.",
+        "fr":"Nous partons bientôt à Paris."
+    },
+    {
+        "de":"Das Essen war sehr lecker, aber das Dessert war übel.",
+        "fr":"Le repas était très délicieux, mais le dessert était terrible."
+    },
+    {
+        "de":"Ich habe heute einen ganzen Tag gearbeitet.",
+        "fr":"J'ai travaillé toute la journée aujourd'hui."
+    },
+    {
+        "de":"Der Himmel ist heute sehr blau und klar.",
+        "fr":"Le ciel est très bleu et clair aujourd'hui."
+    },
+    {
+        "de":"Wir treffen uns morgen um elf Uhr im Café.",
+        "fr":"Nous nous retrouvons demain à onze heures dans le café."
+    },
+    {
+        "de":"Haben Sie schon die neuen Schuhe ausprobiert?",
+        "fr":"Avez-vous déjà essayé les nouvelles chaussures ?"
+    },
+    {
+        "de":"Er hat uns erzählt eine faszinierende Geschichte.",
+        "fr":"Il nous a raconté une histoire fascinante."
+    },
+    {
+        "de":"Die Mutter kümmert sich um die Kinder.",
+        "fr":"La mère s'occupe des enfants."
+    },
+    {
+        "de":"Die Reise war sehr aufregend.",
+        "fr":"Le voyage était très excitant."
+    },
+    {
+        "de":"Es freut mich, dass du gekommen bist.",
+        "fr":"Cela me fait plaisir de te savoir venu."
+    },
+    {
+        "de":"Ich habe eine neue Garderobe gekauft.",
+        "fr":"J'ai acheté une nouvelle garde-robe."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Der Tag war so kalt, dass wir ins Haus gegangen sind.",
+        "fr":"Le jour était si froid que nous sommes rentrés à la maison."
+    },
+    {
+        "de":"Die Katze ist müde und schläft auf dem Sofa.",
+        "fr":"Le chat est fatigué et dort sur le canapé."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Der Tag war so schön, dass wir ins Park gegangen sind.",
+        "fr":"Le jour était si beau que nous sommes allés au parc."
+    },
+    {
+        "de":"Er hat eine neue Wohnung gefunden.",
+        "fr":"Il a trouvé une nouvelle maison."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Ich habe eine neue Zeitschrift bekommen.",
+        "fr":"J'ai reçu une nouvelle revue."
+    },
+    {
+        "de":"Er hat ein Buch gelesen, bevor er ins Bett ging.",
+        "fr":"Il a lu un livre avant d'aller au lit."
+    },
+    {
+        "de":"Wir haben eine lange Fahrt gemacht.",
+        "fr":"Nous avons fait un long trajet."
+    },
+    {
+        "de":"Er ist sehr fleißig.",
+        "fr":"Il est très travailleur."
+    },
+    {
+        "de":"Die Kinder spielen Fußball im Garten.",
+        "fr":"Les enfants jouent au football dans le jardin."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir treffen uns später im Park.",
+        "fr":"Nous nous retrouvons plus tard dans le parc."
+    },
+    {
+        "de":"Der Himmel ist heute sehr blau.",
+        "fr":"Le ciel est très bleu aujourd'hui."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Ihr neuer Job wird am Montag beginnen.",
+        "fr":"Son nouveau travail commencera lundi."
+    },
+    {
+        "de":"Ich habe mich entschieden, französisch zu lernen.",
+        "fr":"Je me suis décidé à apprendre le français."
+    },
+    {
+        "de":"Die Kinder spielen mit Ballons.",
+        "fr":"Les enfants jouent avec des ballons."
+    },
+    {
+        "de":"Wir haben ein Date am Wochenende.",
+        "fr":"Nous avons une rencontre le week-end."
+    },
+    {
+        "de":"Er hat eine neue Wohnung gefunden.",
+        "fr":"Il a trouvé une nouvelle maison."
+    },
+    {
+        "de":"Die Kinder haben Geschenke bekommen.",
+        "fr":"Les enfants ont reçu des cadeaux."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat eine neue Wohnung gefunden.",
+        "fr":"Il a trouvé une nouvelle maison."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Es ist sehr warm heute.",
+        "fr":"Il fait très chaud aujourd'hui."
+    },
+    {
+        "de":"Die Katze schläft auf dem Sofa.",
+        "fr":"Le chat dort sur le canapé."
+    },
+    {
+        "de":"Ich habe heute eine Prüfung.",
+        "fr":"J'ai un examen aujourd'hui."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Wir haben eine lange Fahrt gemacht.",
+        "fr":"Nous avons fait un long trajet."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir fahren bald nach Paris.",
+        "fr":"Nous partons bientôt à Paris."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Die Katze schläft auf dem Sofa.",
+        "fr":"Le chat dort sur le canapé."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir treffen uns später im Park.",
+        "fr":"Nous nous retrouvons plus tard dans le parc."
+    },
+    {
+        "de":"Der Himmel ist heute sehr blau.",
+        "fr":"Le ciel est très bleu aujourd'hui."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Es regnet sehr stark.",
+        "fr":"Il pleut très fort."
+    },
+    {
+        "de":"Ich habe eine neue Garderobe gekauft.",
+        "fr":"J'ai acheté une nouvelle garde-robe."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir haben eine lange Fahrt gemacht.",
+        "fr":"Nous avons fait un long trajet."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Der Tag war so schön, dass wir ins Park gegangen sind.",
+        "fr":"Le jour était si beau que nous sommes allés au parc."
+    },
+    {
+        "de":"Es gibt viele interessante Bücher im Bibliothek.",
+        "fr":"Il y a beaucoup de livres intéressants dans la bibliothèque."
+    },
+    {
+        "de":"Ich habe eine neue Zeitschrift bekommen.",
+        "fr":"J'ai reçu une nouvelle revue."
+    },
+    {
+        "de":"Er hat ein Buch gelesen, bevor er ins Bett ging.",
+        "fr":"Il a lu un livre avant d'aller au lit."
+    },
+    {
+        "de":"Die Kinder spielen Fußball im Garten.",
+        "fr":"Les enfants jouent au football dans le jardin."
+    },
+    {
+        "de":"Er ist sehr fleißig.",
+        "fr":"Il est très travailleur."
+    },
+    {
+        "de":"Wir haben ein Date am Wochenende.",
+        "fr":"Nous avons une rencontre le week-end."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Ich habe gestern einen Film im Kino gesehen.",
+        "fr":"J'ai vu un film au cinéma hier."
+    },
+    {
+        "de":"Sie hat ein neues Auto gekauft.",
+        "fr":"Elle a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Wir sind morgen ins Kino gehen.",
+        "fr":"Nous allons au cinéma demain."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Es gibt viele Menschen auf der Straße.",
+        "fr":"Il y a beaucoup de gens dans la rue."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Die Reise war sehr aufregend.",
+        "fr":"Le voyage était très excitant."
+    },
+    {
+        "de":"Ich habe eine neue Garderobe gekauft.",
+        "fr":"J'ai acheté une nouvelle garde-robe."
+    },
+    {
+        "de":"Der Tag war so schön, dass wir ins Park gegangen sind.",
+        "fr":"Le jour était si beau que nous sommes allés au parc."
+    },
+    {
+        "de":"Er hat eine Nachricht erhalten.",
+        "fr":"Il a reçu un message."
+    },
+    {
+        "de":"Es regnet sehr stark.",
+        "fr":"Il pleut très fort."
+    },
+    {
+        "de":"Ich habe eine neue Garderobe gekauft.",
+        "fr":"J'ai acheté une nouvelle garde-robe."
+    },
+    {
+        "de":"Er hat ein neues Auto gekauft.",
+        "fr":"Il a acheté une nouvelle voiture."
+    },
+    {
+        "de":"Es gibt viele interessante Bücher im Bibliothek.",
+        "fr":"Il y a beaucoup de livres intéressants dans la bibliothèque."
+    },
+    {
+        "de":"Ich habe eine neue Zeitschrift bekommen.",
+        "fr":"J'ai reçu une nouvelle revue."
+    },
+    {
+        "de":"Er hat ein Buch gelesen, bevor er ins Bett ging.",
+        "fr":"Il a lu un livre avant d'aller au lit."
+    }
+]
